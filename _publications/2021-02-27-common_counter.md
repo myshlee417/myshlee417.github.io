@@ -6,6 +6,7 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2021-02-27
 venue: 'the 27th IEEE International Symposium on High-Performance Computer Architecture (HPCA)'
 paperurl: 'http://myshlee417.github.io/files/common_counters_hpca_2021.pdf'
+slideurl: 'http://myshlee417.github.io/files/common_counters_slide_hpca_2021.pdf'
 citation: 'Seonjin Na, **Sunho Lee**, Yeonjae Kim, Jongse Park, and Jaehyuk Huh, &quot;Common Counters: Compressed Encryption Counters for Secure GPU Memory&quot;, the 27th IEEE International Symposium on High-Performance Computer Architecture (HPCA), Feburary 2021'
 ---
 Seonjin Na, **Sunho Lee**, Yeonjae Kim, Jongse Park, and Jaehyuk Huh, &quot;Common Counters: Compressed Encryption Counters for Secure GPU Memory&quot;, the 27th IEEE International Symposium on High-Performance Computer Architecture (HPCA), Feburary 2021
