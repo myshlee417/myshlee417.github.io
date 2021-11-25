@@ -1,7 +1,7 @@
 ---
 title: "Common Counters: Compressed Encryption Counters for Secure GPU Memory"
 collection: publications
-permalink: /publication/common_counters_hpca_2021
+permalink: /publication/2021-02-27-common_counter
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2021-02-27
 venue: 'the 27th IEEE International Symposium on High-Performance Computer Architecture (HPCA)'
