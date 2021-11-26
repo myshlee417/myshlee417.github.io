@@ -7,9 +7,7 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-PDF Download
-======
-## [![pdf-image](https://myshlee417.github.io/files/pdf_icon.png){: width="20" height="20"}Download](http://myshlee417.github.io/files/CV_Sunho_Lee.pdf)
+## [![pdf-image](https://myshlee417.github.io/files/pdf_icon.png){: width="25" height="25"}Download](http://myshlee417.github.io/files/CV_Sunho_Lee.pdf)
 
 
 Research Interests
