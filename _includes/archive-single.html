@@ -73,10 +73,10 @@
     {% endif %}    
     
     {% if post.collection == 'patents'%}
-        {% if post.excerpt and site.read_more != 'enabled' and post.patenturl%}
-        <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}<a href="{{ post.patenturl }}">Patent</a></p>
+        {% if post.excerpt and site.read_more != 'enabled' and post.patenturl %}
+        <p class="archive__item-excerpt" itemprop="description">{{ post.citation }}<a href="{{ post.patenturl }}">Patent</a></p>
         {% elsif post.excerpt and site.read_more != 'enabled'%}
-        <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+        <p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p>
         {% endif %}    
     {% endif %}    
 
