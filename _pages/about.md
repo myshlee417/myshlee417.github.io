@@ -7,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Sunho Lee
-======
 - Ph.D. Student, [School of Computing](https://cs.kaist.ac.kr)
 - [KAIST (Korea Advanced Institute of Science and Technology)](https://kaist.ac.kr)
 - Research Group: Computer Architecture and Systems Laboratory (CASYS)
