@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 
-[![pdf-image](https://myshlee417.github.io/files/pdf_icon.png)](http://myshlee417.github.io/files/CV_Sunho_Lee.pdf)
+[![pdf-image](https://myshlee417.github.io/files/pdf_icon.png){: width="30" height="30"} Download](http://myshlee417.github.io/files/CV_Sunho_Lee.pdf)
 
 Research Interests
 ======
