@@ -35,7 +35,7 @@
       {% endif %}
     </h2>
     {% elsif post.collection == 'patents' %}
-    <h2><p>{{ title }}</p></h2>
+    <h2><p color='#007bff'>{{ title }}</p></h2>
     {% endif %}
     
     {% if post.read_time %}
@@ -48,13 +48,13 @@
           <p><b><i>{{ post.venue }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</i></b> </p>
         {% elsif post.collection == 'patents' %}
 	    {% if post.status == 'pending' and post.ack %}
-	    <p><b>Pending: {{ post.venue }} (with {{ post.ack }})</b></p>
+	    <p><b><i>Pending: {{ post.venue }} (with {{ post.ack }})</i></b></p>
 	    {% elsif post.status == 'pending' %}
-	    <p><b>Pending: {{ post.venue }}</b></p>
+	    <p><b><i>Pending: {{ post.venue }}</i></b></p>
 	    {% elsif post.status == 'register' and post.ack %}
-	    <p><b>Registered: {{ post.venue }} (with {{ post.ack }})</b></p>
+	    <p><b><i>Registered: {{ post.venue }} (with {{ post.ack }})</i></b></p>
 	    {% elsif post.status == 'register' %}
-	    <p><b>Registered: {{ post.venue }}</b></p>
+	    <p><b><i>Registered: {{ post.venue }}</i></b></p>
 	    {% endif %}
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
