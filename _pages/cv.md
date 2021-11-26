@@ -3,6 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
+description: <a href="http://myshlee417@github.io/files/CV_Sunho_Lee.pdf">CVURL<\a>
 redirect_from:
   - /resume
 ---
