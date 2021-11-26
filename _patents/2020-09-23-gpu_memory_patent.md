@@ -9,3 +9,4 @@ status: 'pending'
 ack: 'Samsung Electronics'
 citation: '[Pending] Jaehyuk Huh, Seonjin Na, Sunho Lee, Yeonjae Kim, and Jongse Park, &quot;Efficient Encryption Method and Apparatus for Hardware-based Secure GPU Memory&quot;, Korean Patent (with Samsung Electronics)'
 ---
+Jaehyuk Huh, Seonjin Na, **Sunho Lee**, Yeonjae Kim, and Jongse Park, &quot;Efficient Encryption Method and Apparatus for Hardware-based Secure GPU Memory&quot;, Korean Patent (with Samsung Electronics)

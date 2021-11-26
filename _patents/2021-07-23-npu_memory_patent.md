@@ -9,3 +9,4 @@ status: 'pending'
 ack: 'Samsung Electronics'
 citation: '[Pending] Jaehyuk Huh, Sunho Lee, and Seonjin Na, &quot;Hardware-based Security Architecture for Trusted Neural Processing Unit&quot;, Korean Patent (with Samsung Electronics)'
 ---
+Jaehyuk Huh, **Sunho Lee**, and Seonjin Na, &quot;Hardware-based Security Architecture for Trusted Neural Processing Unit&quot;, Korean Patent (with Samsung Electronics)
