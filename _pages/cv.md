@@ -19,16 +19,16 @@ In these works, I focus on security solutions that leverage characteristics of m
 
 Education
 ======
-**KAIST**, Daejeon, Republic of Korea, *Mar 2021 -*
-&nbsp;Doctor of Philosophy, School of Computing
+**KAIST**, Daejeon, Republic of Korea, *Mar 2021 -*  
+&nbsp;Doctor of Philosophy, School of Computing  
 &nbsp;Advisor: Jaehyuk Huh
 
-**KAIST**, Daejeon, Republic of Korea, *Mar 2019 - Feb 2021*
-&nbsp;Master of Science, School of Computing
-&nbsp;Advisor: Jaehyuk Huh
+**KAIST**, Daejeon, Republic of Korea, *Mar 2019 - Feb 2021*  
+&nbsp;Master of Science, School of Computing  
+&nbsp;Advisor: Jaehyuk Huh  
 &nbsp;Thesis: Hardware Security Techniques for Trusted Machine Learning Accelerators
 
-**Yonsei University**, Seoul, Republic of Korea, *Mar 2015 - Feb 2019*
+**Yonsei University**, Seoul, Republic of Korea, *Mar 2015 - Feb 2019*  
 &nbsp;Bachelor of Science, Computer Science
 
 Publications
