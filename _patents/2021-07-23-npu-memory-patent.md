@@ -1,7 +1,7 @@
 ---
 title: "Hardware-based Security Architecture for Trusted Neural Processing Unit (NPU)"
 collection: patents
-permalink: /patent/2021-07-23-npu_memory_patent
+permalink: /patent/2021-07-23-npu-memory-patent
 date: 2021-07-23
 venue: 'Korean Patent'
 patenturl:
