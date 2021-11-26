@@ -21,8 +21,8 @@ main:
     #  - title: "Blog Posts"
     #    url: /year-archive/
     
-    #- title: "CV"
-    #  url: /files/CV_Sunho_Lee.pdf
+    - title: "CV"
+      url: http://myshlee417.github.io/files/CV_Sunho_Lee.pdf
     
     #  - title: "Guide"
     #    url: /markdown/
