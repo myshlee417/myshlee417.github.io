@@ -3,16 +3,55 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-description: <a href="http://myshlee417@github.io/files/CV_Sunho_Lee.pdf">CVURL<\a>
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
+
+
+Research Interests
+======
+**I am interested in the architecture of accelerators dedicated to machine learning.**
+
+Since machine learning requires fast and secure processing, my research objective is to design high-performance accelerators with security guarantees.
+To achieve this goal, my recent studies proposed architectures to support efficient hardware-based protection for accelerators.
+In these works, I focus on security solutions that leverage characteristics of machine learning.
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
+**KAIST**, Daejeon, Republic of Korea, *Mar 2021 -*
+&nbsp;Doctor of Philosophy, School of Computing
+&nbsp;Advisor: Jaehyuk Huh
+
+**KAIST**, Daejeon, Republic of Korea, *Mar 2019 - Feb 2021*
+&nbsp;Master of Science, School of Computing
+&nbsp;Advisor: Jaehyuk Huh
+&nbsp;Thesis: Hardware Security Techniques for Trusted Machine Learning Accelerators
+
+**Yonsei University**, Seoul, Republic of Korea, *Mar 2015 - Feb 2019*
+&nbsp;Bachelor of Science, Computer Science
+
+Publications
+======
+* **Sunho Lee**, Jungwoo Kim, Seonjin Na, Jongse Park, and Jaehyuk Huh, &quot;TNPU: Supporting Trusted Execution with Tree-less Integrity Protection for Neural Processing Unit&quot, accepted for *the 28th IEEE International Symposium on High-Performance Computer Architecture (* ***HPCA*** *)*, Feburary, 2022.
+* Seonjin Na, **Sunho Lee**, Yeonjae Kim, Jongse Park, and Jaehyuk Huh, &quot;Common Counters: Compressed Encryption Counters for Secure GPU Memory&quot;, *the 27th IEEE International Symposium on High-Performance Computer Architecture (* ***HPCA*** *)*, Feburary, 2021
+
+Patents
+======
+* **[Pending]** Jaehyuk Huh, **Sunho Lee**, and Seonjin Na, &quot;Hardware-based Security Architecture for Trusted Neural Processing Unit&quot;, *Korean Patent* (with Samsung Electronics)
+* **[Pending]** Jaehyuk Huh, Seonjin Na, **Sunho Lee**, Yeonjae Kim, and Jongse Park, &quot;Efficient Encryption Method and Apparatus for Hardware-based Secure GPU Memory&quot;, *Korean Patent* (with Samsung Electronics)
+
+Research Experiences
+======
+
+Recognition
+======
+
+Skills
+======
+
+
+Ph.D. in , GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
