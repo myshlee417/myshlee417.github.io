@@ -18,7 +18,7 @@ Contact Info
 - Tel: (+82)10-3617-1820
 - Address:  
 &#35;4414, E3-1, School of Computing, KAIST  
-291 Daehak-ro(373-1 Guseong-dong), Yuseong-gu  
+291 Daehak-ro (373-1 Guseong-dong), Yuseong-gu  
 Daejeon 34141, Republic of Korea
 
 Research Interests
