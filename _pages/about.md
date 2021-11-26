@@ -9,7 +9,7 @@ redirect_from:
 ---
 - Ph.D. Student, [School of Computing](https://cs.kaist.ac.kr)
 - [KAIST (Korea Advanced Institute of Science and Technology)](https://kaist.ac.kr)
-- Research Group: Computer Architecture and Systems Laboratory (CASYS)
+- [Computer Architecture and Systems Laboratory (CASYS)](https://casys.kaist.ac.kr)
 
 Contact Info
 ======
