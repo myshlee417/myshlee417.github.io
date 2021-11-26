@@ -16,7 +16,10 @@ Contact Info
 - Email: myshlee417 [at] gmail [dot] ac [dot] kr
 - Office: KAIST E3-1 Room #4414
 - Tel: (+82)10-3617-1820
-- Address: School of Computing, KAIST 291 Daehak-ro, Yuseong-gu Daejeon 34141, Republic of Korea
+- Address:  
+School of Computing, KAIST  
+291 Daehak-ro(373-1 Guseong-dong), Yuseong-gu  
+Daejeon 34141, Republic of Korea
 
 Research Interests
 ======
