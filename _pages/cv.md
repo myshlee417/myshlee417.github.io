@@ -19,17 +19,17 @@ In these works, I focus on security solutions that leverage characteristics of m
 
 Education
 ======
-**KAIST**, Daejeon, Republic of Korea, *Mar 2021 -*  
-&nbsp;Doctor of Philosophy, School of Computing  
-&nbsp;Advisor: Jaehyuk Huh
+**KAIST**, Daejeon, Republic of Korea, *Mar 2021 - present*  
+&nbsp;&nbsp;Doctor of Philosophy, School of Computing  
+&nbsp;&nbsp;Advisor: Jaehyuk Huh
 
 **KAIST**, Daejeon, Republic of Korea, *Mar 2019 - Feb 2021*  
-&nbsp;Master of Science, School of Computing  
-&nbsp;Advisor: Jaehyuk Huh  
-&nbsp;Thesis: Hardware Security Techniques for Trusted Machine Learning Accelerators
+&nbsp;&nbsp;Master of Science, School of Computing  
+&nbsp;&nbsp;Advisor: Jaehyuk Huh  
+&nbsp;&nbsp;Thesis: Hardware Security Techniques for Trusted Machine Learning Accelerators
 
 **Yonsei University**, Seoul, Republic of Korea, *Mar 2015 - Feb 2019*  
-&nbsp;Bachelor of Science, Computer Science
+&nbsp;&nbsp;Bachelor of Science, Computer Science
 
 Publications
 ======
@@ -43,57 +43,53 @@ Patents
 
 Research Experiences
 ======
+**KAIST**, Daejeon, Republic of Korea, *Mar 2019 - present*  
+*Ongoing Researches at CASYS (Computer Architecture and SYStem) Lab*  
+Advisor: Jaehyuk Huh  
+&nbsp;&nbsp;**Accelerator Hardware-based Security**  
+&nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for GPU: Common counters for duplicate counters (Published at **HPCA 2021**)  
+&nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for multi-tenant GPU  
+&nbsp;&nbsp;&nbsp;&nbsp;- Trusted execution environment for NPU: Tensor-granularity counters (Accepted at **HPCA 2022**)  
+&nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for NPU: Parital memory protection  
+&nbsp;&nbsp;&nbsp;&nbsp;- Side-channel attack protection for NPU  
+&nbsp;&nbsp;**Accelerator Performance**  
+&nbsp;&nbsp;&nbsp;&nbsp;- Multi-tenancy support for a multi-GPU system: Time and spatial sharing  
+&nbsp;&nbsp;&nbsp;&nbsp;- Multi-tenancy support for NPU: Shared resource management
+
+**Yonsei University**, Seoul, Republic of Korea, *Sep 2017 - June 2018*  
+*Undergraduate Research Intern at ELC (Embedded systems Languages and Compilers) Lab*  
+Advisor: Bernd Burgstaller  
+&nbsp;&nbsp;**Parallelism**  
+&nbsp;&nbsp;&nbsp;&nbsp;- Accelerating big-data streaming engine: Multi-thread and shared-memory  
+&nbsp;&nbsp;&nbsp;&nbsp;- Parallelization of SFA (Simultaneous Deterministic Finite Automata) construction: MPI and Huang's algorithm
 
 Recognition
 ======
+**KAIST**, Daejeon, Republic of Korea  
+&nbsp;&nbsp;Excellent Teaching Assistant Award - CS311 Computer Organization, *Spring 2021*
+
+**Yonsei University**, Seoul, Republic of Korea  
+&nbsp;&nbsp;Dean's List, *Spring 2015, Spring 2018*  
+&nbsp;&nbsp;Undergraduate Capstone Project Award (Third Place) - Project Leader, *Spring 2018*  
+&nbsp;&nbsp;Title: *Cloud SFA: Parallel Construction of Simultaneous Deterministic Finite Automata in Distributed System*
 
 Skills
 ======
+**Programming Languages:** C, C++, Python  
+**NPU Simulators:** SCALE-Sim, MAESTRO, Gemmini  
+**GPU Programming:** CUDA, MPS  
+**Multi-core CPU Programming:** MPI, OpenMP  
+**Machine Learning Frameworks:** Pytorch, Tensorflow  
 
+Teaching Experiences
+======
+**KAIST**, Daejeon, Republic of Korea  
+*Teaching Assistant*  
+&nbsp;&nbsp;CS230 System Programming, *Fall 2021*  
+&nbsp;&nbsp;CS311 Computer Organization, *Spring 2021, Fall 2019*  
+&nbsp;&nbsp;CS211 Digital System and Lab, *Spring 2019*
 
-Ph.D. in , GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**KAIST Education Center**, Daejeon, Republic of Korea  
+*Mentor &#38; Lecturer*  
+&nbsp;&nbsp;Seocho AI College, *Summer 2019, Summer 2021*  
+&nbsp;&nbsp;Python for Beginners, *Summer 2021*
