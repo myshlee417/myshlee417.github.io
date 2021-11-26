@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Sunho Lee"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Ph.D. Student at CASYS, KAIST"
   location         : "KAIST, Republic of Korea"
   employer         :
-  pubmed           : ""
-  googlescholar    : ""
-  email            :
+  pubmed           : 
+  googlescholar    : 
+  email            : "myshlee417@casys.kaist.ac.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
