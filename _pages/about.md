@@ -17,7 +17,7 @@ Contact Info
 - Office: KAIST E3-1 Room #4414
 - Tel: (+82)10-3617-1820
 - Address:  
-School of Computing, KAIST  
+&#35;4414, E3-1, School of Computing, KAIST  
 291 Daehak-ro(373-1 Guseong-dong), Yuseong-gu  
 Daejeon 34141, Republic of Korea
 
