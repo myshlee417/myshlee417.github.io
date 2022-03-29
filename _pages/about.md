@@ -14,7 +14,7 @@ redirect_from:
 
 Contact Info
 ======
-- Email: myshlee417 [at] gmail [dot] ac [dot] kr
+- Email: myshlee417 [at] gmail [dot] com
 - Office: KAIST E3-1 Room #4414
 - Tel: (+82)10-3617-1820
 - Address:  
