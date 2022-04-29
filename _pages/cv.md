@@ -56,7 +56,7 @@ Advisor: Jaehyuk Huh
 &nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for NPU: Parital memory protection  
 &nbsp;&nbsp;&nbsp;&nbsp;- Side-channel attack protection for NPU  
 &nbsp;&nbsp;**Accelerator Performance**  
-&nbsp;&nbsp;&nbsp;&nbsp;- Multi-tenancy support for a multi-GPU system: Time and spatial sharing (Accepted at **USENIX ATC 2022**) 
+&nbsp;&nbsp;&nbsp;&nbsp;- Multi-tenancy support for a multi-GPU system: Time and spatial sharing (Accepted at **USENIX ATC 2022**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Multi-tenancy support for NPU: Shared resource management
 
 **Yonsei University**, Seoul, Republic of Korea, *Sep 2017 - June 2018*  
