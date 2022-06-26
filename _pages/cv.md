@@ -74,7 +74,7 @@ Recognition
 **Yonsei University**, Seoul, Republic of Korea  
 &nbsp;&nbsp;Dean's List, *Spring 2015, Spring 2018*  
 &nbsp;&nbsp;Undergraduate Capstone Project Award (Third Place) - Project Leader, *Spring 2018*  
-&nbsp;&nbsp;Title: *Cloud SFA: Parallel Construction of Simultaneous Deterministic Finite Automata in Distributed System*
+&nbsp;&nbsp;&nbsp;&nbsp;Title: *Cloud SFA: Parallel Construction of Simultaneous Deterministic Finite Automata in Distributed System*
 
 Participation
 ======
