@@ -78,7 +78,7 @@ Recognition
 
 Participation
 ======
-**uArch** (in conjunction with **ISCA 2022**, New York City, United State of America  
+**uArch** (in conjunction with **ISCA 2022**), New York City, United State of America  
 *Student Panel*  
 &nbsp;&nbsp;Life in Grad School, *June 2022*  
 
