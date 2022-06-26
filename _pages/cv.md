@@ -76,6 +76,12 @@ Recognition
 &nbsp;&nbsp;Undergraduate Capstone Project Award (Third Place) - Project Leader, *Spring 2018*  
 &nbsp;&nbsp;Title: *Cloud SFA: Parallel Construction of Simultaneous Deterministic Finite Automata in Distributed System*
 
+Participation
+======
+**uArch** (in conjunction with **ISCA 2022**, New York City, United State of America  
+*Student Panel*  
+&nbsp;&nbsp;Life in Grad School, *June 2022*  
+
 Skills
 ======
 **Programming Languages:** C, C++, Python  
