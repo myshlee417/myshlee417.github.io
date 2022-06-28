@@ -34,8 +34,8 @@ Education
 
 Publications
 ======
-* Seungbeom Choi, **Sunho Lee**, Yeonjae Kim, Jongse Park, Youngjin Kwon, and Jaehyuk Huh, &quot;Serving Heterogeneous Machine Learning Models on Multi-GPU Servers with Spatio-Temporal Sharing&quot;, *The 2022 USENIX Annual Technical Conference (* ***USENIX ATC*** *)*, July 2022
-* **Sunho Lee**, Jungwoo Kim, Seonjin Na, Jongse Park, and Jaehyuk Huh, &quot;TNPU: Supporting Trusted Execution with Tree-less Integrity Protection for Neural Processing Unit&quot;, accepted for *the 28th IEEE International Symposium on High-Performance Computer Architecture (* ***HPCA*** *)*, Feburary 2022.
+* Seungbeom Choi, **Sunho Lee**, Yeonjae Kim, Jongse Park, Youngjin Kwon, and Jaehyuk Huh, &quot;Serving Heterogeneous Machine Learning Models on Multi-GPU Servers with Spatio-Temporal Sharing&quot;, *the 2022 USENIX Annual Technical Conference (* ***USENIX ATC*** *)*, July 2022
+* **Sunho Lee**, Jungwoo Kim, Seonjin Na, Jongse Park, and Jaehyuk Huh, &quot;TNPU: Supporting Trusted Execution with Tree-less Integrity Protection for Neural Processing Unit&quot;, *the 28th IEEE International Symposium on High-Performance Computer Architecture (* ***HPCA*** *)*, Feburary 2022.
 * Seonjin Na, **Sunho Lee**, Yeonjae Kim, Jongse Park, and Jaehyuk Huh, &quot;Common Counters: Compressed Encryption Counters for Secure GPU Memory&quot;, *the 27th IEEE International Symposium on High-Performance Computer Architecture (* ***HPCA*** *)*, Feburary 2021
 
 Patents
