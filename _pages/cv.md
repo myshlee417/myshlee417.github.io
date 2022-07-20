@@ -42,7 +42,7 @@ Patents
 ======
 * **[Pending]** Jaehyuk Huh, **Sunho Lee**, and Seonjin Na, &quot;Hardware-based Security Architecture for Trusted Neural Processing Unit&quot;, *Korean Patent* (with Samsung Electronics)
 * **[Pending]** Jaehyuk Huh, Seonjin Na, **Sunho Lee**, Yeonjae Kim, and Jongse Park, &quot;Efficient Encryption Method and Apparatus for Hardware-based Secure GPU Memory&quot;, *Korean Patent* (with Samsung Electronics)
-* **[Pending]** Jaehyuk Huh, Seungbeom Choi, **Sunho Lee**, Yeonjae Kim, Youngjin Kwon, Jongse Park, &quot;Machine Learning Inference Time-spatial SW Scheduler Based on Multiple GPU&quot;, *Korean Patent*
+* **[10-2365263-0000]** Jaehyuk Huh, Seungbeom Choi, **Sunho Lee**, Yeonjae Kim, Youngjin Kwon, Jongse Park, &quot;Machine Learning Inference Time-spatial SW Scheduler Based on Multiple GPU&quot;, *Korean Patent*
 
 Research Experiences
 ======
@@ -50,13 +50,13 @@ Research Experiences
 *Ongoing Researches at CASYS (Computer Architecture and SYStem) Lab*  
 Advisor: Jaehyuk Huh  
 &nbsp;&nbsp;**Accelerator Hardware-based Security**  
-&nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for GPU: Common counters for duplicate counters (Published at **HPCA 2021**)  
+&nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for GPU: Common counters for duplicate counters (Published in **HPCA 2021**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for multi-tenant GPU  
-&nbsp;&nbsp;&nbsp;&nbsp;- Trusted execution environment for NPU: Tensor-granularity counters (Published at **HPCA 2022**)  
+&nbsp;&nbsp;&nbsp;&nbsp;- Trusted execution environment for NPU: Tensor-granularity counters (Published in **HPCA 2022**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for NPU: Parital memory protection  
 &nbsp;&nbsp;&nbsp;&nbsp;- Side-channel attack protection for NPU  
 &nbsp;&nbsp;**Accelerator Performance**  
-&nbsp;&nbsp;&nbsp;&nbsp;- Multi-tenancy support for a multi-GPU system: Time and spatial sharing (Accepted at **USENIX ATC 2022**)  
+&nbsp;&nbsp;&nbsp;&nbsp;- Multi-tenancy support for a multi-GPU system: Time and spatial sharing (Published in **USENIX ATC 2022**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Multi-tenancy support for NPU: Shared resource management
 
 **Yonsei University**, Seoul, Republic of Korea, *Sep 2017 - June 2018*  
@@ -69,7 +69,7 @@ Advisor: Bernd Burgstaller
 Recognition
 ======
 **KAIST**, Daejeon, Republic of Korea  
-&nbsp;&nbsp;Excellent Teaching Assistant Award - CS311 Computer Organization, *Spring 2021*
+&nbsp;&nbsp;Outstanding Teaching Assistant Award - CS311 Computer Organization, *Spring 2022, Spring 2021*
 
 **Yonsei University**, Seoul, Republic of Korea  
 &nbsp;&nbsp;Dean's List, *Spring 2015, Spring 2018*  
@@ -78,7 +78,7 @@ Recognition
 
 Participation
 ======
-**uArch** (in conjunction with **ISCA 2022**), New York City, United State of America  
+**uArch** (in conjunction with **ISCA 2022**), New York City, United States of America  
 *Student Panel*  
 &nbsp;&nbsp;Life in Grad School, *June 2022*  
 
@@ -95,10 +95,10 @@ Teaching Experiences
 **KAIST**, Daejeon, Republic of Korea  
 *Teaching Assistant*  
 &nbsp;&nbsp;CS230 System Programming, *Fall 2021*  
-&nbsp;&nbsp;CS311 Computer Organization, *Spring 2021, Fall 2019*  
+&nbsp;&nbsp;CS311 Computer Organization, *Spring 2022, Spring 2021, Fall 2019*  
 &nbsp;&nbsp;CS211 Digital System and Lab, *Spring 2019*
 
 **KAIST Education Center**, Daejeon, Republic of Korea  
 *Mentor &#38; Lecturer*  
 &nbsp;&nbsp;Seocho AI College, *Summer 2019, Summer 2021*  
-&nbsp;&nbsp;Python for Beginners, *Summer 2021*
+&nbsp;&nbsp;Python for Beginners, *Summer 2022, Summer 2021*
