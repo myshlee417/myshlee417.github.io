@@ -69,7 +69,7 @@ Advisor: Bernd Burgstaller
 Recognition
 ======
 **KAIST**, Daejeon, Republic of Korea  
-&nbsp;&nbsp;Outstanding Teaching Assistant Award - CS311 Computer Organization, *Spring 2022, Spring 2021*
+&nbsp;&nbsp;Outstanding Teaching Assistant Award - CS311 Computer Organization, *Spring 2022, Fall 2019*
 
 **Yonsei University**, Seoul, Republic of Korea  
 &nbsp;&nbsp;Dean's List, *Spring 2015, Spring 2018*  
