@@ -77,6 +77,9 @@ Recognition
 &nbsp;&nbsp;Undergraduate Capstone Project Award (Third Place) - Project Leader, *Spring 2018*  
 &nbsp;&nbsp;&nbsp;&nbsp;Title: *Cloud SFA: Parallel Construction of Simultaneous Deterministic Finite Automata in Distributed System*
 
+**Samsung Electronics**, Hwaseong, Republic of Korea  
+&nbsp;&nbsp;Best Paper Award (Third Place), *Summer 2022*  
+
 Participation
 ======
 **uArch** (in conjunction with **ISCA 2022**), New York City, United States of America  
