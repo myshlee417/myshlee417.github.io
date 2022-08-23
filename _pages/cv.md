@@ -81,6 +81,7 @@ Recognition
 
 **Samsung Electronics**, Hwaseong, Republic of Korea  
 &nbsp;&nbsp;Best Paper Award (Third Place), *Summer 2022*  
+&nbsp;&nbsp;&nbsp;&nbsp;Title: *TNPU: Supporting Trusted Execution with Tree-less Integrity Protection for Neural Processing Unit*
 
 Participation
 ======
