@@ -55,9 +55,9 @@ Advisor: Jaehyuk Huh
 &nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for GPU: Common counters for duplicate counters (Published in **HPCA 2021**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for multi-tenant GPU  
 &nbsp;&nbsp;&nbsp;&nbsp;- Trusted execution environment for NPU: Tensor-granularity counters (Published in **HPCA 2022**)  
-&nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for NPU: Parital memory protection (Published in **ICCD 2022**)
+&nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for NPU: Parital memory protection (Published in **ICCD 2022**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Side-channel attack protection for NPU  
-&nbsp;&nbsp;&nbsp;&nbsp;- Dynamic Secure-granularity Management for Heterogeneous Processors
+&nbsp;&nbsp;&nbsp;&nbsp;- Dynamic Secure-granularity Management for Heterogeneous Processors  
 &nbsp;&nbsp;**Accelerator Performance**  
 &nbsp;&nbsp;&nbsp;&nbsp;- Multi-tenancy support for a multi-GPU system: Time and spatial sharing (Published in **USENIX ATC 2022**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Multi-tenancy support for NPU: Shared resource management
