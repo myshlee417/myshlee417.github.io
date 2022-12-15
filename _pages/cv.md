@@ -21,7 +21,7 @@ In these works, I focus on security solutions that leverage characteristics of m
 Education
 ======
 **KAIST**, Daejeon, Republic of Korea, *Mar 2021 - present*  
-&nbsp;&nbsp;Doctor of Philosophy, School of Computing  
+&nbsp;&nbsp;Ph.D. Student, School of Computing  
 &nbsp;&nbsp;Advisor: Jaehyuk Huh
 
 **KAIST**, Daejeon, Republic of Korea, *Mar 2019 - Feb 2021*  
@@ -44,7 +44,7 @@ Patents
 * **[Pending]** Jaehyuk Huh, **Sunho Lee**, and Seonjin Na, &quot;Apparatus and Method for Providing Secure Execution Environment for NPU&quot;, *US Patent* (with Samsung Electronics)
 * **[Pending]** Jaehyuk Huh, Seungbeom Choi, **Sunho Lee**, Yeonjae Kim, Youngjin Kwon, Jongse Park, &quot;Machine Learning Inference Time-spatial SW Scheduler Based on Multiple GPU&quot;, *Korean Patent*
 * **[Pending]** Jaehyuk Huh, **Sunho Lee**, and Seonjin Na, &quot;Hardware-based Security Architecture for Trusted Neural Processing Unit&quot;, *Korean Patent* (with Samsung Electronics)
-* **[10-2365263-0000]** Jaehyuk Huh, Seonjin Na, **Sunho Lee**, Yeonjae Kim, and Jongse Park, &quot;Efficient Encryption Method and Apparatus for Hardware-based Secure GPU Memory&quot;, *Korean Patent* (with Samsung Electronics)
+* **[10-2365263-0000]** Jaehyuk Huh, Seonjin Na, **Sunho Lee**, Yeonjae Kim, and Jongse Park, &quot;Efficient Encryption Method and Apparatus for Hardware-based Secure GPU Memory&quot;, *Korean Patent*
 
 Research Experiences
 ======
