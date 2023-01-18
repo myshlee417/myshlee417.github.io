@@ -76,6 +76,7 @@ Advisor: Jaehyuk Huh
 &nbsp;&nbsp;**Accelerator Performance**  
 &nbsp;&nbsp;&nbsp;&nbsp;- Multi-tenancy support for a multi-GPU system: Time and spatial sharing (Published in **USENIX ATC 2022**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Multi-tenancy support for NPU: Shared resource management
+&nbsp;&nbsp;&nbsp;&nbsp;- Efficient on-chip memory management for training NPU: Access order rearrangement
 
 **Yonsei University**, Seoul, Republic of Korea, *Sep 2017 - June 2018*  
 *Undergraduate Research Intern at ELC (Embedded systems Languages and Compilers) Lab*  
