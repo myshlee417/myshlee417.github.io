@@ -12,11 +12,24 @@ redirect_from:
 
 Research Interests
 ======
-**I am interested in the architecture of accelerators dedicated to machine learning.**
+**I am interested in a secure and efficient architecture of hardware accelerators (such as GPU and NPU).**
 
-Since machine learning requires fast and secure processing, my research objective is to design high-performance accelerators with security guarantees.
-To achieve this goal, my recent studies proposed architectures to support efficient hardware-based protection for accelerators.
-In these works, I focus on security solutions that leverage characteristics of machine learning.
+My research objective is to design high-performance accelerators with security guarantees.
+To achieve this goal, my recent studies focus on 1) {\it hardware security} and 2) {\it performance improvement} of hardware accelerators.
+
+***Hardware Security of Accelerators*****:**
+As accelerators are widely used in mission-critical tasks, the importance of security gets larger.
+Although I extended Trusted Execution Environment to GPU and NPU in previous works, countless security weaknesses still remain.
+Therefore, I aim to increasing the security level to resist unintended operations.
+
+***Performance Improvement of Accelerators*****:**
+Since machine learning requires speedy processing, the performance improvement of accelerators is crucial.
+Hence, I consider both hardware and software to enhance parallelism or cut down unnecessary procedures.
+In a recent publication, I proposed the fine-grained scheduling algorithm in GPU by leveraging Multi-Process Service.
+I set the further reduction of the execution time as a future research direction.
+
+From these two sub-goals, I target combining a trusted system with a high-performance accelerator design.
+It is expected to protect users from accidents (caused by attackers or extreme environments) within a reasonable latency.
 
 Education
 ======
