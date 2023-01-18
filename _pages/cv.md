@@ -15,7 +15,7 @@ Research Interests
 **I am interested in a secure and efficient architecture of hardware accelerators (such as GPU and NPU).**
 
 My research objective is to design high-performance accelerators with security guarantees.
-To achieve this goal, my recent studies focus on 1) {\it hardware security} and 2) {\it performance improvement} of hardware accelerators.
+To achieve this goal, my recent studies focus on 1) *hardware security* and 2) *performance improvement* of hardware accelerators.
 
 ***Hardware Security of Accelerators*****:**
 As accelerators are widely used in mission-critical tasks, the importance of security gets larger.
