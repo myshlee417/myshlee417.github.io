@@ -17,12 +17,12 @@ Research Interests
 My research objective is to design high-performance accelerators with security guarantees.
 To achieve this goal, my recent studies focus on 1) *hardware security* and 2) *performance improvement* of hardware accelerators.
 
-***Hardware Security of Accelerators*****:**
+***Hardware Security of Accelerators*** **:**
 As accelerators are widely used in mission-critical tasks, the importance of security gets larger.
 Although I extended Trusted Execution Environment to GPU and NPU in previous works, countless security weaknesses still remain.
 Therefore, I aim to increasing the security level to resist unintended operations.
 
-***Performance Improvement of Accelerators*****:**
+***Performance Improvement of Accelerators*** **:**
 Since machine learning requires speedy processing, the performance improvement of accelerators is crucial.
 Hence, I consider both hardware and software to enhance parallelism or cut down unnecessary procedures.
 In a recent publication, I proposed the fine-grained scheduling algorithm in GPU by leveraging Multi-Process Service.
