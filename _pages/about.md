@@ -9,8 +9,8 @@ redirect_from:
 ---
 - Ph.D. Student, [School of Computing](https://cs.kaist.ac.kr)
 - [KAIST (Korea Advanced Institute of Science and Technology)](https://kaist.ac.kr)
-- [CASYS (Computer Architecture and Systems Laboratory)](http://casyslab.kaist.ac.kr)
-- Advisor: [Prof. Jaehyuk Huh](https://sites.google.com/casys.kaist.ac.kr/jaehyukhuh)
+- [CASYS (Computer Architecture and Systems Laboratory)](https://casyslab.kaist.ac.kr)
+- Advisor: [Prof. Jaehyuk Huh](https://jaehyuk-huh.github.io/index.html)
 
 Contact Info
 ======
