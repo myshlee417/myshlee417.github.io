@@ -47,6 +47,7 @@ Education
 
 Publications
 ======
+* Seungho Lee, **Sunho Lee**, Jaehyuk Huh, and Sejin Kwon, &quot;Proposal of Aerospace-informatics by Design of Ramjet Inlet Using Machine Learning&quot;, *the 2023 Aerospace Europe Conference (* ***AEC*** *) joint event between the 10th European Conference for Aerospace Sciences (* ***EUCASS*** *) and the 9th Council of European Aerospace Societies (* ***CEAS*** *)*, July 2023
 * **Sunho Lee**, Seonjin Na, Jungwoo Kim, Jongse Park, and Jaehyuk Huh, &quot;Tunable Memory Protection for Secure Neural Processing Units&quot;, *the 40th IEEE International Conference on Computer Design (* ***ICCD*** *)*, October 2022
 * Seungbeom Choi, **Sunho Lee**, Yeonjae Kim, Jongse Park, Youngjin Kwon, and Jaehyuk Huh, &quot;Serving Heterogeneous Machine Learning Models on Multi-GPU Servers with Spatio-Temporal Sharing&quot;, *the 2022 USENIX Annual Technical Conference (* ***USENIX ATC*** *)*, July 2022
 * **Sunho Lee**, Jungwoo Kim, Seonjin Na, Jongse Park, and Jaehyuk Huh, &quot;TNPU: Supporting Trusted Execution with Tree-less Integrity Protection for Neural Processing Unit&quot;, *the 28th IEEE International Symposium on High-Performance Computer Architecture (* ***HPCA*** *)*, Feburary 2022
