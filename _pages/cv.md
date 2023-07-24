@@ -47,6 +47,7 @@ Education
 
 Publications
 ======
+* Jungwoo Kim, Seonjin Na, Sanghyeon Lee, **Sunho Lee**, and Jaehyuk Huh, &quot;Improving Data Reuse in NPU On-chip Memory with Interleaved Gradient Order for DNN Training&quot;, *the 56th IEEE/ACM International Symposium on Microarchitecture (* ***MICRO*** *)*, October 2023
 * Seungho Lee, **Sunho Lee**, Jaehyuk Huh, and Sejin Kwon, &quot;Proposal of Aerospace-informatics by Design of Ramjet Inlet Using Machine Learning&quot;, *the 2023 Aerospace Europe Conference (* ***AEC*** *) joint event between the 10th European Conference for Aerospace Sciences (* ***EUCASS*** *) and the 9th Council of European Aerospace Societies (* ***CEAS*** *)*, July 2023
 * **Sunho Lee**, Seonjin Na, Jungwoo Kim, Jongse Park, and Jaehyuk Huh, &quot;Tunable Memory Protection for Secure Neural Processing Units&quot;, *the 40th IEEE International Conference on Computer Design (* ***ICCD*** *)*, October 2022
 * Seungbeom Choi, **Sunho Lee**, Yeonjae Kim, Jongse Park, Youngjin Kwon, and Jaehyuk Huh, &quot;Serving Heterogeneous Machine Learning Models on Multi-GPU Servers with Spatio-Temporal Sharing&quot;, *the 2022 USENIX Annual Technical Conference (* ***USENIX ATC*** *)*, July 2022
@@ -77,7 +78,7 @@ Advisor: Jaehyuk Huh
 &nbsp;&nbsp;**Accelerator Performance**  
 &nbsp;&nbsp;&nbsp;&nbsp;- Multi-tenancy support for a multi-GPU system: Time and spatial sharing (Published in **USENIX ATC 2022**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Multi-tenancy support for NPU: Shared resource management  
-&nbsp;&nbsp;&nbsp;&nbsp;- Efficient on-chip memory management for training NPU: Access order rearrangement  
+&nbsp;&nbsp;&nbsp;&nbsp;- On-chip memory management for training NPU: Access order rearrangement (Published in **MICRO 2023**)
 
 **Yonsei University**, Seoul, Republic of Korea, *Sep 2017 - June 2018*  
 *Undergraduate Research Intern at ELC (Embedded systems Languages and Compilers) Lab*  

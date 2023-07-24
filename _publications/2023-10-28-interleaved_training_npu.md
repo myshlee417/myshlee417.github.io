@@ -1,0 +1,13 @@
+---
+title: "Improving Data Reuse in NPU On-chip Memory with Interleaved Gradient Order for DNN Training"
+collection: publications
+permalink: /publication/2023-10-28-interleaved_training_npu
+date: 2023-10-28
+venue: 'MICRO 2023'
+paperurl:
+slideurl:
+citation: 'Jungwoo Kim, Seonjin Na, Sanghyeon Lee, Sunho Lee, and Jaehyuk Huh, &quot;Improving Data Reuse in NPU On-chip Memory with Interleaved Gradient Order for DNN Training&quot;, the 56th IEEE/ACM International Symposium on Microarchitecture (MICRO), October 2023'
+---
+Jungwoo Kim, Seonjin Na, Sanghyeon Lee, **Sunho Lee**, and Jaehyuk Huh, &quot;Improving Data Reuse in NPU On-chip Memory with Interleaved Gradient Order for DNN Training&quot;, *the 56th IEEE/ACM International Symposium on Microarchitecture (* ***MICRO*** *)*, October 2023
+
+Recent neural processing units (NPUs) support training of machine learning (ML) models in addition to inference serving. In the training process, the most time-consuming part is the backward pass, which adds significant new overheads by extra off-chip memory accesses. For NPUs, the software-managed on-chip scratchpad memory (SPM) has a crucial role in hiding long latency and limited bandwidth of off-chip DRAM. With extra gradient computations in the backward pass, improving data reuse in SPM to reduce external memory accesses has become critical for performance. However, the backward pass computation of DNN training provides a new opportunity to improve the effectiveness of SPM. The backward pass includes independent input and weight gradient computations sharing the same output gradient in each layer. The conventional sequential processing does not exploit the potential data reuse opportunity within SPM. Identifying the new opportunity of data reuse in the backward pass, this study proposes a new data flow transformation scheme, called *interleaved gradient order*, consisting of three techniques to enhance the utilization of NPU scratchpad memory. The first technique shuffles the input and weight gradient computations by interleaving two operations to cut down redundant output gradient accesses. The second technique adjusts the tile access order for the interleaved gradient computations to maximize the potential data locality. However, the best order is not fixed for all tensors, and thus we propose a selection algorithm to find the best one depending on the tensor dimensions. The final technique extends the transformation support to multi-core NPUs, to maximize the data reuse across multiple NPU cores in a single chip. The simulation-based evaluation with duel-core edge and server NPUs shows that the combined techniques can improve performance by 29.4\% and 15.2\%, respectively.
