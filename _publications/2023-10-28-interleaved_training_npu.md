@@ -3,7 +3,7 @@ title: "Improving Data Reuse in NPU On-chip Memory with Interleaved Gradient Ord
 collection: publications
 permalink: /publication/2023-10-28-interleaved_training_npu
 date: 2023-10-28
-venue: 'MICRO 2023'
+venue: 'MICRO'
 paperurl:
 slideurl:
 citation: 'Jungwoo Kim, Seonjin Na, Sanghyeon Lee, Sunho Lee, and Jaehyuk Huh, &quot;Improving Data Reuse in NPU On-chip Memory with Interleaved Gradient Order for DNN Training&quot;, the 56th IEEE/ACM International Symposium on Microarchitecture (MICRO), October 2023'
