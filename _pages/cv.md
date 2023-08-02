@@ -78,7 +78,7 @@ Advisor: Jaehyuk Huh
 &nbsp;&nbsp;&nbsp;&nbsp;- Dynamic secure-granularity management for heterogeneous processors  
 &nbsp;&nbsp;**Accelerator Performance**  
 &nbsp;&nbsp;&nbsp;&nbsp;- Multi-tenancy support for a multi-GPU system: Time and spatial sharing (Published in **USENIX ATC 2022**)  
-&nbsp;&nbsp;&nbsp;&nbsp;- Accurate multi-NPU simulation: Multi-NPU simulator attached with DRAMsim3 (Published in **IISWC 2023**)
+&nbsp;&nbsp;&nbsp;&nbsp;- Accurate multi-NPU simulation: Multi-NPU simulator attached with DRAMsim3 (Published in **IISWC 2023**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- On-chip memory management for training NPU: Access order rearrangement (Published in **MICRO 2023**)
 
 **Yonsei University**, Seoul, Republic of Korea, *Sep 2017 - June 2018*  
