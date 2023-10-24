@@ -1,0 +1,14 @@
+---
+title: "Supporting Secure Multi-GPU Computing with Dynamic and Batched Metadata Management"
+collection: publications
+permalink: /publication/2024-03-02-multi_gpu_security
+date: 2024-03-02
+venue: 'HPCA'
+paperurl:
+# paperurl: 'http://myshlee417.github.io/files/multi_gpu_security_hpca_2024.pdf'
+# slideurl: 'http://myshlee417.github.io/files/multi_gpu_security_slide_hpca_2024.pdf'
+citation: 'Seonjin Na, Jungwoo Kim, Sunho Lee, and Jaehyuk Huh, &quot;Supporting Secure Multi-GPU Computing with Dynamic and Batched Metadata Management&quot;, the 30th IEEE International Symposium on High-Performance Computer Architecture (HPCA), March 2024'
+---
+Seonjin Na, Jungwoo Kim, **Sunho Lee**, and Jaehyuk Huh, &quot;Supporting Secure Multi-GPU Computing with Dynamic and Batched Metadata Management&quot;, *the 30th IEEE International Symposium on High-Performance Computer Architecture (* ***HPCA*** *)*, March 2024
+
+With the growing problem size for GPU-based computing, multi-GPU systems with block-level memory sharing have emerged to improve the current coarse-grained unified memory support based on page migration. Such shared memory multi-GPU systems pose a new challenge in securing the inter-GPU computation, as the cost of secure communication across GPUs adds a significant performance overhead. There are two overheads of secure communication for multi-GPU systems: First, for each communication, extra latency is added to generate one-time pad (OTP) for authenticated encryption. Second, the security metadata for MAC and counter passed along with the encrypted data consume the precious network bandwidth. The prior CPU-based OTP precomputation schemes suffer from the scalability problem of the Private scheme which has a separate buffer for each source-destination pair, or the performance problem of the Shared scheme which attempts to share the OTP buffer for more efficient buffer utilization. This study first investigates the performance impact of secure communication in multi-GPU systems, and evaluates the CPU-oriented OTP precomputation schemes. Our investigation identifies the performance problem with the limited OTP buffers for inter-GPU communication, and the potential of exploiting communication locality in GPU workloads. This paper proposes a new dynamic OTP buffer allocation technique, which adjusts the buffer assignment for each source-destination pair to reflect the communication patterns. To address the bandwidth problem, the study employs a dynamic batch scheme to pass only a set of metadata for each batched group of data responses. The proposed design constantly tracks the communication pattern from each GPU, and periodically adjusts the allocated buffer size, and dynamically forms batches of communication. Our evaluation shows that when the OTP buffer size is limited with 4 GPUs, the proposed scheme can improve the performance by 9.1% on average from the prior best-performing scheme.

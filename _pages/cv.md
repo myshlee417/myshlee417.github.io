@@ -47,6 +47,7 @@ Education
 
 Publications
 ======
+* Seonjin Na, Jungwoo Kim, **Sunho Lee**, and Jaehyuk Huh, &quot;Supporting Secure Multi-GPU Computing with Dynamic and Batched Metadata Management&quot;, *the 30th IEEE International Symposium on High-Performance Computer Architecture (* ***HPCA*** *)*, March 2024
 * Jungwoo Kim, Seonjin Na, Sanghyeon Lee, **Sunho Lee**, and Jaehyuk Huh, &quot;Improving Data Reuse in NPU On-chip Memory with Interleaved Gradient Order for DNN Training&quot;, *the 56th IEEE/ACM International Symposium on Microarchitecture (* ***MICRO*** *)*, October 2023
 * \*Soojin Hwang, \***Sunho Lee**, Jungwoo Kim, Hongbeen Kim, Jaehyuk Huh, &quot;mNPUsim: Evaluating the Effect of Sharing Resources with Multi-Core NPUs&quot;, *the 2023 IEEE International Symposium on Workload Characterization (* ***IISWC*** *)*, October 2023 (\* co-first authors)
 * Seungho Lee, **Sunho Lee**, Jaehyuk Huh, and Sejin Kwon, &quot;Proposal of Aerospace-informatics by Design of Ramjet Inlet Using Machine Learning&quot;, *the 2023 Aerospace Europe Conference (* ***AEC*** *) joint event between the 10th European Conference for Aerospace Sciences (* ***EUCASS*** *) and the 9th Council of European Aerospace Societies (* ***CEAS*** *)*, July 2023
@@ -71,7 +72,7 @@ Research Experiences
 Advisor: Jaehyuk Huh  
 &nbsp;&nbsp;**Accelerator Hardware-based Security**  
 &nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for GPU: Common counters for duplicate counters (Published in **HPCA 2021**)  
-&nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for multi-tenant GPU  
+&nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for multi-GPU system (Published in **HPCA 2024**)
 &nbsp;&nbsp;&nbsp;&nbsp;- Trusted execution environment for NPU: Tensor-granularity counters (Published in **HPCA 2022**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for NPU: Parital memory protection (Published in **ICCD 2022**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Side-channel attack protection for NPU  
