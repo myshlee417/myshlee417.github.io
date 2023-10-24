@@ -72,7 +72,7 @@ Research Experiences
 Advisor: Jaehyuk Huh  
 &nbsp;&nbsp;**Accelerator Hardware-based Security**  
 &nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for GPU: Common counters for duplicate counters (Published in **HPCA 2021**)  
-&nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for multi-GPU system (Published in **HPCA 2024**)
+&nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for multi-GPU system (Published in **HPCA 2024**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Trusted execution environment for NPU: Tensor-granularity counters (Published in **HPCA 2022**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for NPU: Parital memory protection (Published in **ICCD 2022**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Side-channel attack protection for NPU  
