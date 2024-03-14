@@ -20,7 +20,7 @@ To achieve this goal, my recent studies focus on 1) *hardware security* and 2) *
 ***Hardware Security of Accelerators*** **:**
 As accelerators are widely used in mission-critical tasks, the importance of security gets larger.
 Although I extended Trusted Execution Environment to GPU and NPU in previous works, countless security weaknesses still remain.
-Therefore, I aim to increasing the security level to resist unintended operations.
+Therefore, I aim to increase the security level to resist unintended operations.
 
 ***Performance Improvement of Accelerators*** **:**
 Since machine learning requires speedy processing, the performance improvement of accelerators is crucial.
@@ -93,6 +93,7 @@ Recognition
 ======
 **KAIST**, Daejeon, Republic of Korea  
 &nbsp;&nbsp;Outstanding Teaching Assistant Award - CS311 Computer Organization, *Spring 2022, Fall 2019*
+&nbsp;&nbsp;Outstanding Teaching Assistant Award - CS230 System Programming, *Fall 2023*
 
 **Yonsei University**, Seoul, Republic of Korea  
 &nbsp;&nbsp;Dean's List, *Spring 2015, Spring 2018*  
@@ -121,8 +122,8 @@ Teaching Experiences
 ======
 **KAIST**, Daejeon, Republic of Korea  
 *Teaching Assistant*  
-&nbsp;&nbsp;CS230 System Programming, *Fall 2021*  
-&nbsp;&nbsp;CS311 Computer Organization, *Spring 2022, Spring 2021, Fall 2019*  
+&nbsp;&nbsp;CS230 System Programming, *Fall 2023, Fall 2021*  
+&nbsp;&nbsp;CS311 Computer Organization, *Fall 2022, Spring 2022, Spring 2021, Fall 2019*  
 &nbsp;&nbsp;CS211 Digital System and Lab, *Spring 2019*
 
 **KAIST Education Center**, Daejeon, Republic of Korea  
