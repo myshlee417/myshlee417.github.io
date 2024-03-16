@@ -4,8 +4,8 @@ collection: publications
 permalink: /publication/2024-03-02-multi_gpu_security
 date: 2024-03-02
 venue: 'HPCA'
-# paperurl: 'http://myshlee417.github.io/files/multi_gpu_security_hpca_2024.pdf'
-# slideurl: 'http://myshlee417.github.io/files/multi_gpu_security_slide_hpca_2024.pdf'
+paperurl: 'http://myshlee417.github.io/files/multi_gpu_security_hpca_2024.pdf'
+slideurl: 'http://myshlee417.github.io/files/multi_gpu_security_slide_hpca_2024.pdf'
 citation: 'Seonjin Na, Jungwoo Kim, Sunho Lee, and Jaehyuk Huh, &quot;Supporting Secure Multi-GPU Computing with Dynamic and Batched Metadata Management&quot;, the 30th IEEE International Symposium on High-Performance Computer Architecture (HPCA), March 2024'
 ---
 Seonjin Na, Jungwoo Kim, **Sunho Lee**, and Jaehyuk Huh, &quot;Supporting Secure Multi-GPU Computing with Dynamic and Batched Metadata Management&quot;, *the 30th IEEE International Symposium on High-Performance Computer Architecture (* ***HPCA*** *)*, March 2024
