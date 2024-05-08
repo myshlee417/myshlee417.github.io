@@ -113,7 +113,7 @@ Participation
 Skills
 ======
 **Programming Languages:** C, C++, Python  
-**NPU Simulators:** <span style="font-size:130%">*mNPUsim*</span>, SCALE-Sim, MAESTRO, Gemmini  
+**NPU Simulators:** <ins>*mNPUsim*</ins>, SCALE-Sim, MAESTRO, Gemmini  
 **GPU Programming:** CUDA, MPS  
 **Multi-core CPU Programming:** MPI, OpenMP  
 **Machine Learning Frameworks:** Pytorch, Tensorflow  
