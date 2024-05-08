@@ -96,7 +96,7 @@ Recognition
 &nbsp;&nbsp;Outstanding Teaching Assistant Award - CS230 System Programming, *Fall 2023*
 
 **Yonsei University**, Seoul, Republic of Korea  
-&nbsp;&nbsp;Dean's List, *Spring 2015, Spring 2018*  
+&nbsp;&nbsp;Dean's List, *Spring 2018, Spring 2015*  
 &nbsp;&nbsp;Undergraduate Capstone Project Award (Third Place) - Project Leader, *Spring 2018*  
 &nbsp;&nbsp;&nbsp;&nbsp;Title: *Cloud SFA: Parallel Construction of Simultaneous Deterministic Finite Automata in Distributed System*
 
