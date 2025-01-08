@@ -14,21 +14,21 @@ Research Interests
 ======
 **I am interested in a secure and efficient architecture of high-performance devices (such as GPU, NPU, CXL, and PIM).**
 
-My research objective is to design high-performance accelerators with security guarantees.
-To achieve this goal, my recent studies focus on 1) *hardware security* and 2) *performance improvement* of hardware accelerators.
+My research objective is to design high-performance devices with security guarantees.
+To achieve this goal, my recent studies focus on 1) *hardware security* and 2) *performance improvement* of high-performance devices.
 
-***Hardware Security of Accelerators*** **:**
-As accelerators are widely used in mission-critical tasks, the importance of security gets larger.
-Although I extended Trusted Execution Environment to GPU and NPU in previous works, countless security weaknesses still remain.
+***Hardware Security of High-performance Devices*** **:**
+As accelerators, CXL, and PIM are widely used in mission-critical tasks, the importance of security gets larger.
+Although I extended Trusted Execution Environment to GPU, NPU, and CXL in previous works, countless security weaknesses still remain.
 Therefore, I aim to increase the security level to resist unintended operations.
 
-***Performance Improvement of Accelerators*** **:**
-Since machine learning requires speedy processing, the performance improvement of accelerators is crucial.
+***Performance Improvement of High-performance Devices*** **:**
+Since machine learning requires speedy processing, the performance improvement of high-performance devices is crucial.
 Hence, I consider both hardware and software to enhance parallelism or cut down unnecessary procedures.
 In a recent publication, I proposed the fine-grained scheduling algorithm in GPU by leveraging Multi-Process Service.
 I set the further reduction of the execution time as a future research direction.
 
-From these two sub-goals, I target combining a trusted system with a high-performance accelerator design.
+From these two sub-goals, I target combining a trusted system with a high-performance device design.
 It is expected to protect users from accidents (caused by attackers or extreme environments) within a reasonable latency.
 
 Education
@@ -70,18 +70,16 @@ Research Experiences
 **KAIST**, Daejeon, Republic of Korea, *Mar 2019 - present*  
 *Ongoing Researches at CASYS (Computer Architecture and SYStem) Lab*  
 Advisor: Jaehyuk Huh  
-&nbsp;&nbsp;**Accelerator Hardware-based Security**  
+&nbsp;&nbsp;**High-performance Device Security**  
 &nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for GPU: Common counters for duplicate counters (Published in **HPCA 2021**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Inter-processing unit communication protection optimization for multi-GPU system (Published in **HPCA 2024**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Trusted execution environment for NPU: Tensor-granularity counters (Published in **HPCA 2022**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for NPU: Parital memory protection (Published in **ICCD 2022**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Side-channel attack protection for NPU  
 &nbsp;&nbsp;&nbsp;&nbsp;- Dynamic secure-granularity management for heterogeneous processors  
-&nbsp;&nbsp;**CXL Hardware-based Security**  
 &nbsp;&nbsp;&nbsp;&nbsp;- Memory protection and obfuscation for CXL (Published in **TACO 2025**)  
-&nbsp;&nbsp;**PIM Security**  
 &nbsp;&nbsp;&nbsp;&nbsp;- Virtualization for multi-tenant general-purpose PIM  
-&nbsp;&nbsp;**Accelerator Performance**  
+&nbsp;&nbsp;**High-performance Device Performance**  
 &nbsp;&nbsp;&nbsp;&nbsp;- Multi-tenancy support for a multi-GPU system: Time and spatial sharing (Published in **USENIX ATC 2022**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Accurate multi-NPU simulation: Multi-NPU simulator attached with DRAMsim3 (Published in **IISWC 2023**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- On-chip memory management for training NPU: Access order rearrangement (Published in **MICRO 2023**)
