@@ -12,7 +12,7 @@ redirect_from:
 
 Research Interests
 ======
-**I am interested in a secure and efficient architecture of hardware accelerators (such as GPU and NPU).**
+**I am interested in a secure and efficient architecture of hardware accelerators (such as GPU, NPU, and PIM).**
 
 My research objective is to design high-performance accelerators with security guarantees.
 To achieve this goal, my recent studies focus on 1) *hardware security* and 2) *performance improvement* of hardware accelerators.
@@ -47,6 +47,7 @@ Education
 
 Publications
 ======
+* Kwanghoon Choi, Igjae Kim, **Sunho Lee**, and Jaehyuk Huh, &quot;ShieldCXL: A Practical Obliviousness Support with Sealed CXL Memory&quot;, *ACM Transactions on Architecture and Code Optimization (* ***TACO*** *)*, 2025
 * Seonjin Na, Jungwoo Kim, **Sunho Lee**, and Jaehyuk Huh, &quot;Supporting Secure Multi-GPU Computing with Dynamic and Batched Metadata Management&quot;, *the 30th IEEE International Symposium on High-Performance Computer Architecture (* ***HPCA*** *)*, March 2024
 * Jungwoo Kim, Seonjin Na, Sanghyeon Lee, **Sunho Lee**, and Jaehyuk Huh, &quot;Improving Data Reuse in NPU On-chip Memory with Interleaved Gradient Order for DNN Training&quot;, *the 56th IEEE/ACM International Symposium on Microarchitecture (* ***MICRO*** *)*, October 2023
 * \*Soojin Hwang, \***Sunho Lee**, Jungwoo Kim, Hongbeen Kim, Jaehyuk Huh, &quot;mNPUsim: Evaluating the Effect of Sharing Resources with Multi-Core NPUs&quot;, *the 2023 IEEE International Symposium on Workload Characterization (* ***IISWC*** *)*, October 2023 (\* co-first authors)
@@ -58,12 +59,11 @@ Publications
 
 Patents
 ======
-* **[Pending]** Jaehyuk Huh, Jungwoo Kim, Seonjin Na, Sanghyeon Lee, and **Sunho Lee**, &quot;Improving the Utilization of NPU On-chip Memory with Computation Rearrangement for DNN Training&quot;, *Korean Patent*
-* **[Pending]** Jaehyuk Huh, Seonjin Na, Jungwoo Kim, and **Sunho Lee**, &quot;Dynamic One-time Pad Table Management for Secure Multi-GPU Communication&quot;, *Korean Patent*
-* **[Pending]** Jaehyuk Huh, **Sunho Lee**, and Seonjin Na, &quot;Apparatus and Method for Providing Secure Execution Environment for NPU&quot;, *US Patent* (with Samsung Electronics)
-* **[Pending]** Jaehyuk Huh, Seungbeom Choi, **Sunho Lee**, Yeonjae Kim, Youngjin Kwon, Jongse Park, &quot;Machine Learning Inference Time-spatial SW Scheduler Based on Multiple GPU&quot;, *Korean Patent*
-* **[Pending]** Jaehyuk Huh, **Sunho Lee**, and Seonjin Na, &quot;Hardware-based Security Architecture for Trusted Neural Processing Unit&quot;, *Korean Patent* (with Samsung Electronics)
-* **[10-2365263-0000]** Jaehyuk Huh, Seonjin Na, **Sunho Lee**, Yeonjae Kim, and Jongse Park, &quot;Efficient Encryption Method and Apparatus for Hardware-based Secure GPU Memory&quot;, *Korean Patent*
+* **[Application: KR 1020230055347]** Jaehyuk Huh, Jungwoo Kim, Seonjin Na, Sanghyeon Lee, and **Sunho Lee**, &quot;Improving the Utilization of NPU On-chip Memory with Computation Rearrangement for DNN Training&quot;, *Korean Patent*
+* **[Application: KR 1020230055346]** Jaehyuk Huh, Seonjin Na, Jungwoo Kim, and **Sunho Lee**, &quot;Dynamic One-time Pad Table Management for Secure Multi-GPU Communication&quot;, *Korean Patent*
+* **[Registration: US 12045337]** Jaehyuk Huh, **Sunho Lee**, and Seonjin Na, &quot;Apparatus and Method for Providing Secure Execution Environment for NPU&quot;, *US Patent* (with Samsung Electronics)
+* **[Application: KR 1020220055977]** Jaehyuk Huh, Seungbeom Choi, **Sunho Lee**, Yeonjae Kim, Youngjin Kwon, Jongse Park, &quot;Machine Learning Inference Time-spatial SW Scheduler Based on Multiple GPU&quot;, *Korean Patent*
+* **[Registration: KR 1023652630000]** Jaehyuk Huh, Seonjin Na, **Sunho Lee**, Yeonjae Kim, and Jongse Park, &quot;Efficient Encryption Method and Apparatus for Hardware-based Secure GPU Memory&quot;, *Korean Patent*
 
 Research Experiences
 ======
