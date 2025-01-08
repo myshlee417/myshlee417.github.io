@@ -9,4 +9,4 @@ status: 'Registration'
 ack:
 citation: '[Registration: KR 1023652630000] Jaehyuk Huh, Seonjin Na, Sunho Lee, Yeonjae Kim, and Jongse Park, &quot;Efficient Encryption Method and Apparatus for Hardware-based Secure GPU Memory&quot;, Korean Patent'
 ---
-**[KR 1023652630000]** Jaehyuk Huh, Seonjin Na, **Sunho Lee**, Yeonjae Kim, and Jongse Park, &quot;Efficient Encryption Method and Apparatus for Hardware-based Secure GPU Memory&quot;, Korean Patent
+**[Registration: KR 1023652630000]** Jaehyuk Huh, Seonjin Na, **Sunho Lee**, Yeonjae Kim, and Jongse Park, &quot;Efficient Encryption Method and Apparatus for Hardware-based Secure GPU Memory&quot;, Korean Patent

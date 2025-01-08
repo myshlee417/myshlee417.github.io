@@ -9,4 +9,4 @@ status: 'Application'
 ack:
 citation: '[Application: KR 1020230055346] Jaehyuk Huh, Jungwoo Kim, Seonjin Na, Sanghyeon Lee, and Sunho Lee, &quot;Improving the Utilization of NPU On-chip Memory with Computation Rearrangement for DNN Training&quot;, Korean Patent'
 ---
-**[KR 1020230055346]** Jaehyuk Huh, Jungwoo Kim, Seonjin Na, Sanghyeon Lee, and **Sunho Lee**, &quot;Improving the Utilization of NPU On-chip Memory with Computation Rearrangement for DNN Training&quot;, Korean Patent
+**[Application: KR 1020230055346]** Jaehyuk Huh, Jungwoo Kim, Seonjin Na, Sanghyeon Lee, and **Sunho Lee**, &quot;Improving the Utilization of NPU On-chip Memory with Computation Rearrangement for DNN Training&quot;, Korean Patent

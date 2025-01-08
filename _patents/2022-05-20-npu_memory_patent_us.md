@@ -9,4 +9,4 @@ status: 'Registration: US 12045337'
 ack: 'Samsung Electronics'
 citation: '[Registration: US 12045337] Jaehyuk Huh, Sunho Lee, and Seonjin Na, &quot;Apparatus and Method for Providing Secure Execution Environment for NPU&quot;, US Patent (with Samsung Electronics)'
 ---
-**[US 12045337]** Jaehyuk Huh, **Sunho Lee**, and Seonjin Na, &quot;Apparatus and Method for Providing Secure Execution Environment for NPU&quot;, US Patent (with Samsung Electronics)
+**[Registration: US 12045337]** Jaehyuk Huh, **Sunho Lee**, and Seonjin Na, &quot;Apparatus and Method for Providing Secure Execution Environment for NPU&quot;, US Patent (with Samsung Electronics)

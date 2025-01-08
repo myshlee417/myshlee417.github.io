@@ -9,4 +9,4 @@ status: 'Application'
 ack:
 citation: '[Application: KR 1020230055347] Jaehyuk Huh, Seonjin Na, Jungwoo Kim, and Sunho Lee, &quot;Dynamic One-time Pad Table Management for Secure Multi-GPU Communication&quot;, Korean Patent'
 ---
-**[KR 1020230055347]** Jaehyuk Huh, Seonjin Na, Jungwoo Kim, and **Sunho Lee**, &quot;Dynamic One-time Pad Table Management for Secure Multi-GPU Communication&quot;, Korean Patent
+**[Application: KR 1020230055347]** Jaehyuk Huh, Seonjin Na, Jungwoo Kim, and **Sunho Lee**, &quot;Dynamic One-time Pad Table Management for Secure Multi-GPU Communication&quot;, Korean Patent
