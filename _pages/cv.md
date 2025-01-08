@@ -72,12 +72,12 @@ Research Experiences
 Advisor: Jaehyuk Huh  
 &nbsp;&nbsp;**High-performance Device Security**  
 &nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for GPU: Common counters for duplicate counters (Published in **HPCA 2021**)  
-&nbsp;&nbsp;&nbsp;&nbsp;- Inter-processing unit communication protection optimization for multi-GPU system (Published in **HPCA 2024**)  
+&nbsp;&nbsp;&nbsp;&nbsp;- Inter-processing unit communication protection optimization for multi-GPU: Dynamic OTP table management and batched MAC (Published in **HPCA 2024**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Trusted execution environment for NPU: Tensor-granularity counters (Published in **HPCA 2022**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for NPU: Parital memory protection (Published in **ICCD 2022**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Side-channel attack protection for NPU  
 &nbsp;&nbsp;&nbsp;&nbsp;- Dynamic secure-granularity management for heterogeneous processors  
-&nbsp;&nbsp;&nbsp;&nbsp;- Memory protection and obfuscation for CXL (Published in **TACO 2025**)  
+&nbsp;&nbsp;&nbsp;&nbsp;- Memory protection and obfuscation for CXL: Sealing CXL module, flit encryption, dummy flit, and DRAM cache partitioning (Published in **TACO 2025**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Virtualization for multi-tenant general-purpose PIM  
 &nbsp;&nbsp;**High-performance Device Performance**  
 &nbsp;&nbsp;&nbsp;&nbsp;- Multi-tenancy support for a multi-GPU system: Time and spatial sharing (Published in **USENIX ATC 2022**)  
