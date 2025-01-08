@@ -5,7 +5,7 @@ permalink: /patent/2022-03-01-ml_inference_scheduling
 date: 2022-03-01
 venue: 'Korean Patent'
 patenturl:
-status: 'Application: KR 1020220055977'
+status: 'Application'
 ack:
 citation: '[Application: KR 1020220055977] Jaehyuk Huh, Seungbeom Choi, Sunho Lee, Yeonjae Kim, Youngjin Kwon, Jongse Park, &quot;Machine Learning Inference Time-spatial SW Scheduler Based on Multiple GPU&quot;, Korean Patent'
 ---
