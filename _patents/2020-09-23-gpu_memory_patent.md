@@ -5,8 +5,8 @@ permalink: /patent/2020-09-23-gpu_memory_patent
 date: 2020-09-23
 venue: 'Korean Patent'
 patenturl:
-status: 'register'
+status: 'Registration'
 ack:
-citation: '10-2365263-0000: Jaehyuk Huh, Seonjin Na, Sunho Lee, Yeonjae Kim, and Jongse Park, &quot;Efficient Encryption Method and Apparatus for Hardware-based Secure GPU Memory&quot;, Korean Patent'
+citation: '[Registration: KR 1023652630000] Jaehyuk Huh, Seonjin Na, Sunho Lee, Yeonjae Kim, and Jongse Park, &quot;Efficient Encryption Method and Apparatus for Hardware-based Secure GPU Memory&quot;, Korean Patent'
 ---
-**[10-2365263-0000]** Jaehyuk Huh, Seonjin Na, **Sunho Lee**, Yeonjae Kim, and Jongse Park, &quot;Efficient Encryption Method and Apparatus for Hardware-based Secure GPU Memory&quot;, Korean Patent
+**[KR 1023652630000]** Jaehyuk Huh, Seonjin Na, **Sunho Lee**, Yeonjae Kim, and Jongse Park, &quot;Efficient Encryption Method and Apparatus for Hardware-based Secure GPU Memory&quot;, Korean Patent
