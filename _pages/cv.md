@@ -12,7 +12,7 @@ redirect_from:
 
 Research Interests
 ======
-**I am interested in a secure and efficient architecture of hardware accelerators (such as GPU, NPU, and PIM).**
+**I am interested in a secure and efficient architecture of high-performance devices (such as GPU, NPU, CXL, and PIM).**
 
 My research objective is to design high-performance accelerators with security guarantees.
 To achieve this goal, my recent studies focus on 1) *hardware security* and 2) *performance improvement* of hardware accelerators.
@@ -72,11 +72,15 @@ Research Experiences
 Advisor: Jaehyuk Huh  
 &nbsp;&nbsp;**Accelerator Hardware-based Security**  
 &nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for GPU: Common counters for duplicate counters (Published in **HPCA 2021**)  
-&nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for multi-GPU system (Published in **HPCA 2024**)  
+&nbsp;&nbsp;&nbsp;&nbsp;- Inter-processing unit communication protection optimization for multi-GPU system (Published in **HPCA 2024**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Trusted execution environment for NPU: Tensor-granularity counters (Published in **HPCA 2022**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for NPU: Parital memory protection (Published in **ICCD 2022**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Side-channel attack protection for NPU  
 &nbsp;&nbsp;&nbsp;&nbsp;- Dynamic secure-granularity management for heterogeneous processors  
+&nbsp;&nbsp;**CXL Hardware-based Security**  
+&nbsp;&nbsp;&nbsp;&nbsp;- Memory protection and obfuscation for CXL (Published in **TACO 2025**)  
+&nbsp;&nbsp;**PIM Security**  
+&nbsp;&nbsp;&nbsp;&nbsp;- Virtualization for multi-tenant general-purpose PIM  
 &nbsp;&nbsp;**Accelerator Performance**  
 &nbsp;&nbsp;&nbsp;&nbsp;- Multi-tenancy support for a multi-GPU system: Time and spatial sharing (Published in **USENIX ATC 2022**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Accurate multi-NPU simulation: Multi-NPU simulator attached with DRAMsim3 (Published in **IISWC 2023**)  
