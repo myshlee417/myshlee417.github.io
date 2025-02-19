@@ -31,9 +31,15 @@ I set the further reduction of the execution time as a future research direction
 From these two sub-goals, I target combining a trusted system with a high-performance device design.
 It is expected to protect users from accidents (caused by attackers or extreme environments) within a reasonable latency.
 
+Professional Services
+======
+**KAIST**, Daejeon, Republic of Korea, *Feb 2025 - present*  
+&nbsp;&nbsp;Postdoc, School of Computing  
+&nbsp;&nbsp;Advisor: Jaehyuk Huh
+
 Education
 ======
-**KAIST**, Daejeon, Republic of Korea, *Mar 2021 - present*  
+**KAIST**, Daejeon, Republic of Korea, *Mar 2021 - Feb 2025*  
 &nbsp;&nbsp;Ph.D. Student, School of Computing  
 &nbsp;&nbsp;Advisor: Jaehyuk Huh
 
