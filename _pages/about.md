@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-- Ph.D. Student, [School of Computing](https://cs.kaist.ac.kr)
+- Ph.D. [School of Computing](https://cs.kaist.ac.kr)
 - [KAIST (Korea Advanced Institute of Science and Technology)](https://kaist.ac.kr)
 - [CASYS (Computer Architecture and Systems Laboratory)](https://casyslab.kaist.ac.kr)
 - Advisor: [Prof. Jaehyuk Huh](https://jaehyuk-huh.github.io/index.html)
@@ -31,6 +31,6 @@ Research Interests
 
 Education
 ======
-- Ph.D. in [School of Computing](https://cs.kaist.ac.kr), [KAIST](https://kaist.ac.kr), Mar 2021 - present
+- Ph.D. in [School of Computing](https://cs.kaist.ac.kr), [KAIST](https://kaist.ac.kr), Mar 2021 - Feb 2025
 - M.S. in [School of Computing](https://cs.kaist.ac.kr), [KAIST](https://kaist.ac.kr), Mar 2019 - Feb 2021
 - B.S. in [Computer Science](https://cs.yonsei.ac.kr), [Yonsei University](https://yonsei.ac.kr), Mar 2015 - Feb 2019
