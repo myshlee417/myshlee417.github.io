@@ -53,6 +53,7 @@ Education
 
 Publications
 ======
+* **Sunho Lee**, Seonjin Na, Jeongwon Choi, Jinwon Pyo, and Jaehyuk Huh, &quot;Unified Memory Protection with Multi-granular MAC and Integrity Tree for Heterogeneous Processors&quot;, *the 52nd IEEE International Symposium on Computer Architecture (* ***ISCA*** *)*, June 2025
 * Kwanghoon Choi, Igjae Kim, **Sunho Lee**, and Jaehyuk Huh, &quot;ShieldCXL: A Practical Obliviousness Support with Sealed CXL Memory&quot;, *ACM Transactions on Architecture and Code Optimization (* ***TACO*** *)*, 2025
 * Seonjin Na, Jungwoo Kim, **Sunho Lee**, and Jaehyuk Huh, &quot;Supporting Secure Multi-GPU Computing with Dynamic and Batched Metadata Management&quot;, *the 30th IEEE International Symposium on High-Performance Computer Architecture (* ***HPCA*** *)*, March 2024
 * Jungwoo Kim, Seonjin Na, Sanghyeon Lee, **Sunho Lee**, and Jaehyuk Huh, &quot;Improving Data Reuse in NPU On-chip Memory with Interleaved Gradient Order for DNN Training&quot;, *the 56th IEEE/ACM International Symposium on Microarchitecture (* ***MICRO*** *)*, October 2023
@@ -82,7 +83,7 @@ Advisor: Jaehyuk Huh
 &nbsp;&nbsp;&nbsp;&nbsp;- Trusted execution environment for NPU: Tensor-granularity counters (Published in **HPCA 2022**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for NPU: Parital memory protection (Published in **ICCD 2022**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Side-channel attack protection for NPU  
-&nbsp;&nbsp;&nbsp;&nbsp;- Dynamic secure-granularity management for heterogeneous processors  
+&nbsp;&nbsp;&nbsp;&nbsp;- Dynamic secure-granularity management for heterogeneous processors: Multi-granular MAC and multi-granular integrity tree (Published in **ISCA 2025**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Memory protection and obfuscation for CXL: Sealing CXL module, flit encryption, dummy flit, and DRAM cache partitioning (Published in **TACO 2025**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Virtualization for multi-tenant general-purpose PIM  
 &nbsp;&nbsp;**High-performance Device Performance**  
