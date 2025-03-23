@@ -53,7 +53,7 @@ Education
 
 Publications
 ======
-* **Sunho Lee**, Seonjin Na, Jeongwon Choi, Jinwon Pyo, and Jaehyuk Huh, &quot;Unified Memory Protection with Multi-granular MAC and Integrity Tree for Heterogeneous Processors&quot;, *the 52nd ACM/IEEE International Symposium on Computer Architecture (* ***ISCA*** *)*, June 2025
+* **Sunho Lee**, Seonjin Na, Jeongwon Choi, Jinwon Pyo, and Jaehyuk Huh, &quot;Unified Memory Protection with Multi-granular MAC and Integrity Tree for Heterogeneous Processors&quot;, *the 52nd International Symposium on Computer Architecture (* ***ISCA*** *)*, June 2025
 * Kwanghoon Choi, Igjae Kim, **Sunho Lee**, and Jaehyuk Huh, &quot;ShieldCXL: A Practical Obliviousness Support with Sealed CXL Memory&quot;, *ACM Transactions on Architecture and Code Optimization (* ***TACO*** *)*, 2025
 * Seonjin Na, Jungwoo Kim, **Sunho Lee**, and Jaehyuk Huh, &quot;Supporting Secure Multi-GPU Computing with Dynamic and Batched Metadata Management&quot;, *the 30th IEEE International Symposium on High-Performance Computer Architecture (* ***HPCA*** *)*, March 2024
 * Jungwoo Kim, Seonjin Na, Sanghyeon Lee, **Sunho Lee**, and Jaehyuk Huh, &quot;Improving Data Reuse in NPU On-chip Memory with Interleaved Gradient Order for DNN Training&quot;, *the 56th IEEE/ACM International Symposium on Microarchitecture (* ***MICRO*** *)*, October 2023
