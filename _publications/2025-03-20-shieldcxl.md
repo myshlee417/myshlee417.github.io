@@ -1,14 +1,14 @@
 ---
 title: "ShieldCXL: A Practical Obliviousness Support with Sealed CXL Memory"
 collection: publications
-permalink: /publication/2025-shieldcxl
-date: 2025-01-01
+permalink: /publication/2025-03-20-shieldcxl
+date: 2025-03-20
 venue: 'TACO'
 paperurl: 'http://myshlee417.github.io/files/shieldcxl_taco_2025.pdf'
 slideurl: 'http://myshlee417.github.io/files/shieldcxl_slide_taco_2025.pdf'
-citation: 'Kwanghoon Choi, Igjae Kim, Sunho Lee, and Jaehyuk Huh, &quot;ShieldCXL: A Practical Obliviousness Support with Sealed CXL Memory&quot;, ACM Transactions on Architecture and Code Optimization (TACO), 2025'
+citation: 'Kwanghoon Choi, Igjae Kim, Sunho Lee, and Jaehyuk Huh, &quot;ShieldCXL: A Practical Obliviousness Support with Sealed CXL Memory&quot;, ACM Transactions on Architecture and Code Optimization (TACO), March 2025'
 ---
-Kwanghoon Choi, Igjae Kim, **Sunho Lee**, and Jaehyuk Huh, &quot;ShieldCXL: A Practical Obliviousness Support with Sealed CXL Memory&quot;, *ACM Transactions on Architecture and Code Optimization (* ***TACO*** *)*, 2025
+Kwanghoon Choi, Igjae Kim, **Sunho Lee**, and Jaehyuk Huh, &quot;ShieldCXL: A Practical Obliviousness Support with Sealed CXL Memory&quot;, *ACM Transactions on Architecture and Code Optimization (* ***TACO*** *)*, March 2025
 
 [Paper](http://myshlee417.github.io/files/shieldcxl_taco_2025.pdf)
 [Slide](http://myshlee417.github.io/files/shieldcxl_slide_taco_2025.pdf)
