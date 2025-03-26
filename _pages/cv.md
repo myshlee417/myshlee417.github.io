@@ -37,6 +37,8 @@ Professional Services
 &nbsp;&nbsp;Postdoc, School of Computing  
 &nbsp;&nbsp;Advisor: Jaehyuk Huh
 
+**Artifact Evaluation Committee:** ISCA 2025
+
 Education
 ======
 **KAIST**, Daejeon, Republic of Korea, *Mar 2021 - Feb 2025*  
