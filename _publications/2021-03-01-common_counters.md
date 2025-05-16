@@ -1,14 +1,14 @@
 ---
 title: "Common Counters: Compressed Encryption Counters for Secure GPU Memory"
 collection: publications
-permalink: /publication/2021-02-27-common_counters
-date: 2021-02-27
+permalink: /publication/2021-03-01-common_counters
+date: 2021-03-01
 venue: 'HPCA'
 paperurl: 'http://myshlee417.github.io/files/common_counters_hpca_2021.pdf'
 slideurl: 'http://myshlee417.github.io/files/common_counters_slide_hpca_2021.pdf'
-citation: 'Seonjin Na, Sunho Lee, Yeonjae Kim, Jongse Park, and Jaehyuk Huh, &quot;Common Counters: Compressed Encryption Counters for Secure GPU Memory&quot;, the 27th IEEE International Symposium on High-Performance Computer Architecture (HPCA), Feburary 2021'
+citation: 'Seonjin Na, Sunho Lee, Yeonjae Kim, Jongse Park, and Jaehyuk Huh, &quot;Common Counters: Compressed Encryption Counters for Secure GPU Memory&quot;, the 27th IEEE International Symposium on High-Performance Computer Architecture (HPCA), March 2021'
 ---
-Seonjin Na, **Sunho Lee**, Yeonjae Kim, Jongse Park, and Jaehyuk Huh, &quot;Common Counters: Compressed Encryption Counters for Secure GPU Memory&quot;, *the 27th IEEE International Symposium on High-Performance Computer Architecture (* ***HPCA*** *)*, Feburary 2021
+Seonjin Na, **Sunho Lee**, Yeonjae Kim, Jongse Park, and Jaehyuk Huh, &quot;Common Counters: Compressed Encryption Counters for Secure GPU Memory&quot;, *the 27th IEEE International Symposium on High-Performance Computer Architecture (* ***HPCA*** *)*, March 2021
 
 [Paper](http://myshlee417.github.io/files/common_counters_hpca_2021.pdf) [Slide](http://myshlee417.github.io/files/common_counters_slide_hpca_2021.pdf)
 
