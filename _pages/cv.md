@@ -34,16 +34,21 @@ It is expected to protect users from accidents (caused by attackers or extreme e
 Professional Services
 ======
 **KAIST**, Daejeon, Republic of Korea, *Feb 2025 - present*  
-&nbsp;&nbsp;Postdoc, School of Computing  
+&nbsp;&nbsp;Post-doctoral Researcher, School of Computing  
 &nbsp;&nbsp;Advisor: Jaehyuk Huh
 
 **Artifact Evaluation Committee:** ISCA 2025
+
+**uArch** (in conjunction with **ISCA 2022**), New York City, United States of America, *June 2022*  
+&nbsp;&nbsp;Student Panel  
+&nbsp;&nbsp;Topic: Life in Grad School
 
 Education
 ======
 **KAIST**, Daejeon, Republic of Korea, *Mar 2021 - Feb 2025*  
 &nbsp;&nbsp;Ph.D. Student, School of Computing  
 &nbsp;&nbsp;Advisor: Jaehyuk Huh
+&nbsp;&nbsp;Thesis: Trusted Execution Environment for AI Processing System with Heterogeneous Processors and PIM Devices
 
 **KAIST**, Daejeon, Republic of Korea, *Mar 2019 - Feb 2021*  
 &nbsp;&nbsp;Master of Science, School of Computing  
@@ -87,6 +92,7 @@ Advisor: Jaehyuk Huh
 &nbsp;&nbsp;&nbsp;&nbsp;- Side-channel attack protection for NPU  
 &nbsp;&nbsp;&nbsp;&nbsp;- Dynamic secure-granularity management for heterogeneous processors: Multi-granular MAC and multi-granular integrity tree (Published in **ISCA 2025**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Memory protection and obfuscation for CXL: Sealing CXL module, flit encryption, dummy flit, and DRAM cache partitioning (Published in **TACO 2025**)  
+&nbsp;&nbsp;&nbsp;&nbsp;- Efficient homomorphic encryption scheme for LLM  
 &nbsp;&nbsp;&nbsp;&nbsp;- Virtualization for multi-tenant general-purpose PIM  
 &nbsp;&nbsp;**High-performance Device Performance**  
 &nbsp;&nbsp;&nbsp;&nbsp;- Multi-tenancy support for a multi-GPU system: Time and spatial sharing (Published in **USENIX ATC 2022**)  
@@ -114,12 +120,6 @@ Recognition
 **Samsung Electronics**, Hwaseong, Republic of Korea  
 &nbsp;&nbsp;Best Paper Award (Third Place), *Summer 2022*  
 &nbsp;&nbsp;&nbsp;&nbsp;Title: *TNPU: Supporting Trusted Execution with Tree-less Integrity Protection for Neural Processing Unit*
-
-Participation
-======
-**uArch** (in conjunction with **ISCA 2022**), New York City, United States of America  
-*Student Panel*  
-&nbsp;&nbsp;Life in Grad School, *June 2022*  
 
 Skills
 ======
