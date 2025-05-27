@@ -73,6 +73,7 @@ Publications
 
 Patents
 ======
+* **[Application: KR 1020250065203]** Jaehyuk Huh, Kwanghoon Choi, Igjae Kim, and **Sunho Lee**, &quot;Efficient Access Obfuscation with CXL Memory&quot;, *Korean Patent*
 * **[Application: KR 1020230055347]** Jaehyuk Huh, Jungwoo Kim, Seonjin Na, Sanghyeon Lee, and **Sunho Lee**, &quot;Improving the Utilization of NPU On-chip Memory with Computation Rearrangement for DNN Training&quot;, *Korean Patent*
 * **[Application: KR 1020230055346]** Jaehyuk Huh, Seonjin Na, Jungwoo Kim, and **Sunho Lee**, &quot;Dynamic One-time Pad Table Management for Secure Multi-GPU Communication&quot;, *Korean Patent*
 * **[Registration: US 12045337]** Jaehyuk Huh, **Sunho Lee**, and Seonjin Na, &quot;Apparatus and Method for Providing Secure Execution Environment for NPU&quot;, *US Patent* (with Samsung Electronics)
