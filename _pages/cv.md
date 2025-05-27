@@ -77,7 +77,7 @@ Patents
 * **[Application: KR 1020230055347]** Jaehyuk Huh, Jungwoo Kim, Seonjin Na, Sanghyeon Lee, and **Sunho Lee**, &quot;Improving the Utilization of NPU On-chip Memory with Computation Rearrangement for DNN Training&quot;, *Korean Patent*
 * **[Application: KR 1020230055346]** Jaehyuk Huh, Seonjin Na, Jungwoo Kim, and **Sunho Lee**, &quot;Dynamic One-time Pad Table Management for Secure Multi-GPU Communication&quot;, *Korean Patent*
 * **[Registration: US 12045337]** Jaehyuk Huh, **Sunho Lee**, and Seonjin Na, &quot;Apparatus and Method for Providing Secure Execution Environment for NPU&quot;, *US Patent* (with Samsung Electronics)
-* **[Application: KR 1020220055977]** Jaehyuk Huh, Seungbeom Choi, **Sunho Lee**, Yeonjae Kim, Youngjin Kwon, Jongse Park, &quot;Machine Learning Inference Time-spatial SW Scheduler Based on Multiple GPU&quot;, *Korean Patent*
+* **[Application: KR 1020220055977]** Jaehyuk Huh, Seungbeom Choi, Youngjin Kwon, Jongse Park, **Sunho Lee**, and Yeonjae Kim, &quot;Machine Learning Inference Time-spatial SW Scheduler Based on Multiple GPU&quot;, *Korean Patent*
 * **[Registration: KR 1023652630000]** Jaehyuk Huh, Seonjin Na, **Sunho Lee**, Yeonjae Kim, and Jongse Park, &quot;Efficient Encryption Method and Apparatus for Hardware-based Secure GPU Memory&quot;, *Korean Patent*
 
 Research Experiences

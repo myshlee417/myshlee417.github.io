@@ -7,6 +7,6 @@ venue: 'Korean Patent'
 patenturl:
 status: 'Application'
 ack:
-citation: '[Application: KR 1020220055977] Jaehyuk Huh, Seungbeom Choi, Sunho Lee, Yeonjae Kim, Youngjin Kwon, Jongse Park, &quot;Machine Learning Inference Time-spatial SW Scheduler Based on Multiple GPU&quot;, Korean Patent'
+citation: '[Application: KR 1020220055977] Jaehyuk Huh, Seungbeom Choi, Youngjin Kwon, Jongse Park, Sunho Lee, and Yeonjae Kim, &quot;Machine Learning Inference Time-spatial SW Scheduler Based on Multiple GPU&quot;, Korean Patent'
 ---
-**[Application: KR 1020220055977]** Jaehyuk Huh, Seungbeom Choi, **Sunho Lee**, Yeonjae Kim, Youngjin Kwon, Jongse Park, &quot;Machine Learning Inference Time-spatial SW Scheduler Based on Multiple GPU&quot;, Korean Patent
+**[Application: KR 1020220055977]** Jaehyuk Huh, Seungbeom Choi, Youngjin Kwon, Jongse Park, **Sunho Lee**, and Yeonjae Kim, &quot;Machine Learning Inference Time-spatial SW Scheduler Based on Multiple GPU&quot;, Korean Patent
