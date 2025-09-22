@@ -12,24 +12,23 @@ redirect_from:
 
 Research Interests
 ======
-**I am interested in a secure and efficient architecture of high-performance devices (such as GPU, NPU, CXL, and PIM).**
+**I am interested in a secure and efficient architecture of high-performance devices (such as GPUs, NPUs, CXL memories, and PIM devices).**
 
 My research objective is to design high-performance devices with security guarantees.
 To achieve this goal, my recent studies focus on 1) *hardware security* and 2) *performance improvement* of high-performance devices.
 
 ***Hardware Security of High-performance Devices*** **:**
-As accelerators, CXL, and PIM are widely used in mission-critical tasks, the importance of security gets larger.
-Although I extended Trusted Execution Environment to GPU, NPU, and CXL in previous works, countless security weaknesses still remain.
-Therefore, I aim to increase the security level to resist unintended operations.
+As accelerators, CXL memories, and PIM devices are widely used in mission-critical tasks, the importance of security increases.
+Although I extended Trusted Execution Environment (TEE) to GPUs, NPUs, CXL memories, and heterogeneous processors in prior studies, countless security weaknesses still remain.
+Therefore, I aim to increase the security level to resist unintended operations of high-performance devices.
 
-***Performance Improvement of High-performance Devices*** **:**
-Since machine learning requires speedy processing, the performance improvement of high-performance devices is crucial.
-Hence, I consider both hardware and software to enhance parallelism or cut down unnecessary procedures.
-In a recent publication, I proposed the fine-grained scheduling algorithm in GPU by leveraging Multi-Process Service.
-I set the further reduction of the execution time as a future research direction.
+***Performance Improvement of High-performance Device*** **:**
+Since machine learning requires speedy processing, I consider both hardware and software optimization to enhance parallelism or to eliminate unnecessary procedures.
+In my prior studies, I proposed a fine-grained scheduling algorithm in GPUs and NPUs to increase resource utilization.
+Beyond these optimizations, I target a further improvement as a future research direction.
 
-From these two sub-goals, I target combining a trusted system with a high-performance device design.
-It is expected to protect users from accidents (caused by attackers or extreme environments) within a reasonable latency.
+From these two sub-goals, my objective is to combine a trusted system with a high-performance device design.
+It is expected to protect users from attackers in a reasonable latency.
 
 Professional Services
 ======
@@ -94,7 +93,7 @@ Advisor: Jaehyuk Huh
 &nbsp;&nbsp;&nbsp;&nbsp;- Dynamic secure-granularity management for heterogeneous processors: Multi-granular MAC and multi-granular integrity tree (Published in **ISCA 2025**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Memory protection and obfuscation for CXL: Sealing CXL module, flit encryption, dummy flit, and DRAM cache partitioning (Published in **TACO 2025**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Efficient homomorphic encryption scheme for LLM  
-&nbsp;&nbsp;&nbsp;&nbsp;- Virtualization for multi-tenant general-purpose PIM  
+&nbsp;&nbsp;&nbsp;&nbsp;- Confidential computing and memory virtualization for multi-tenant general-purpose PIM Virtualization  
 &nbsp;&nbsp;**High-performance Device Performance**  
 &nbsp;&nbsp;&nbsp;&nbsp;- Multi-tenancy support for a multi-GPU system: Time and spatial sharing (Published in **USENIX ATC 2022**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Accurate multi-NPU simulation: Multi-NPU simulator attached with DRAMsim3 (Published in **IISWC 2023**)  
@@ -126,6 +125,7 @@ Skills
 ======
 **Programming Languages:** C, C++, Python  
 **NPU Simulators:** <ins>*mNPUsim*</ins>, SCALE-Sim, MAESTRO, Gemmini  
+**PIM Simulators/Programming:** UPMEM, uPIMulator  
 **GPU Programming:** CUDA, MPS  
 **Multi-core CPU Programming:** MPI, OpenMP  
 **Machine Learning Frameworks:** Pytorch, Tensorflow  
