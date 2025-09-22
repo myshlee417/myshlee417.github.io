@@ -137,6 +137,8 @@ Teaching Experiences
 &nbsp;&nbsp;CS230 System Programming, *Fall 2023, Fall 2021*  
 &nbsp;&nbsp;CS311 Computer Organization, *Fall 2022, Spring 2022, Spring 2021, Fall 2019*  
 &nbsp;&nbsp;CS211 Digital System and Lab, *Spring 2019*
+*Seminar Presenter*  
+&nbsp;&nbsp;AS602 AI Semiconductor Paper Writing, *Spring 2025, Spring 2024*  
 
 **KAIST Education Center**, Daejeon, Republic of Korea  
 *Mentor &#38; Lecturer*  
