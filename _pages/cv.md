@@ -93,7 +93,7 @@ Advisor: Jaehyuk Huh
 &nbsp;&nbsp;&nbsp;&nbsp;- Dynamic secure-granularity management for heterogeneous processors: Multi-granular MAC and multi-granular integrity tree (Published in **ISCA 2025**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Memory protection and obfuscation for CXL: Sealing CXL module, flit encryption, dummy flit, and DRAM cache partitioning (Published in **TACO 2025**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Efficient homomorphic encryption scheme for LLM  
-&nbsp;&nbsp;&nbsp;&nbsp;- Confidential computing and memory virtualization for multi-tenant general-purpose PIM Virtualization  
+&nbsp;&nbsp;&nbsp;&nbsp;- Confidential computing and memory virtualization for multi-tenant general-purpose PIM  
 &nbsp;&nbsp;**High-performance Device Performance**  
 &nbsp;&nbsp;&nbsp;&nbsp;- Multi-tenancy support for a multi-GPU system: Time and spatial sharing (Published in **USENIX ATC 2022**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Accurate multi-NPU simulation: Multi-NPU simulator attached with DRAMsim3 (Published in **IISWC 2023**)  
