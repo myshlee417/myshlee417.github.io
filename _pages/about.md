@@ -15,9 +15,6 @@ redirect_from:
 Contact Info
 ======
 - Email: myshlee417 [at] gmail [dot] com
-- Office: TBD
-- Tel: TBD
-- Address: TBD
 
 Research Interests
 ======
