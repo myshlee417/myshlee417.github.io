@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-- Incoming Post-doctoral Researcher [Engineering Science](https://eng.ox.ac.uk)
+- Incoming Post-doctoral Researcher, [Engineering Science](https://eng.ox.ac.uk)
 - [University of Oxford](https://www.ox.ac.uk/)
 - [OSCAR (Oxford Secure Computer Architecture Research Group)](https://oscar-ox.com)
 - Advisor: [Prof. Amro Awad](https://eng.ox.ac.uk/people/amro-awad)
