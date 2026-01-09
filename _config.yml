@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sunho's Website"
 title_separator          : "-"
 name                     : &name "Sunho Lee"
-description              : &description "Ph.D. at KAIST"
+description              : &description "Incoming Post-doctoral Researcher at University of Oxford"
 url                      : https://myshlee417.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "myshlee417.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Sunho Lee"
   avatar           : "profile.png"
-  bio              : "Ph.D. at CASYS, KAIST"
-  location         : "KAIST, Republic of Korea"
+  bio              : "Incoming Post-doctoral Researcher at University of Oxford"
+  location         : "University of Oxford, United Kingdom"
   employer         :
   pubmed           : 
   googlescholar    : 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "myshlee417"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :

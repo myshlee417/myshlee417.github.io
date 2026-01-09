@@ -12,13 +12,13 @@ redirect_from:
 
 Research Interests
 ======
-**I am interested in a secure and efficient architecture of high-performance devices (such as GPUs, NPUs, CXL memories, and PIM devices).**
+**I am interested in a secure and efficient architecture of high-performance devices (such as chiplet-based processors, GPUs, NPUs, CXL memories, and PIM devices).**
 
 My research objective is to design high-performance devices with security guarantees.
 To achieve this goal, my recent studies focus on 1) *hardware security* and 2) *performance improvement* of high-performance devices.
 
 ***Hardware Security of High-performance Devices*** **:**
-As accelerators, CXL memories, and PIM devices are widely used in mission-critical tasks, the importance of security increases.
+As chiplet-based processors, accelerators, CXL memories, and PIM devices are widely used in mission-critical tasks, the importance of security increases.
 Although I extended Trusted Execution Environment (TEE) to GPUs, NPUs, CXL memories, and heterogeneous processors in prior studies, countless security weaknesses still remain.
 Therefore, I aim to increase the security level to resist unintended operations of high-performance devices.
 
@@ -32,7 +32,11 @@ It is expected to protect users from attackers in a reasonable latency.
 
 Professional Services
 ======
-**KAIST**, Daejeon, Republic of Korea, *Feb 2025 - present*  
+**University of Oxford**, Oxford, United Kingdom, *Apr 2026 - present*  
+&nbsp;&nbsp;Post-doctoral Researcher, Engineering Science  
+&nbsp;&nbsp;Advisor: Amro Awad
+
+**KAIST**, Daejeon, Republic of Korea, *Mar 2025 - Mar 2026*  
 &nbsp;&nbsp;Post-doctoral Researcher, School of Computing  
 &nbsp;&nbsp;Advisor: Jaehyuk Huh
 
@@ -85,8 +89,15 @@ Patents
 
 Research Experiences
 ======
+**University of Oxford**, Oxford, United Kingdom, *Apr 2026 - present*  
+*Ongoing Researches at OSCAR (Oxford Secure Computer Architecture Research Group) Lab*  
+Advisor: Amro Awad  
+&nbsp;&nbsp;**High-performance Device Security**  
+&nbsp;&nbsp;&nbsp;&nbsp;- Confidential computing for chiplet-based processors  
+
+&nbsp;&nbsp;**High-performance Device Security**  
 **KAIST**, Daejeon, Republic of Korea, *Mar 2019 - present*  
-*Ongoing Researches at CASYS (Computer Architecture and SYStem) Lab*  
+*Researches at CASYS (Computer Architecture and SYStem) Lab*  
 Advisor: Jaehyuk Huh  
 &nbsp;&nbsp;**High-performance Device Security**  
 &nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for GPU: Common counters for duplicate counters (Published in **HPCA 2021**)  

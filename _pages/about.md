@@ -7,26 +7,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
-- Ph.D. [School of Computing](https://cs.kaist.ac.kr)
-- [KAIST (Korea Advanced Institute of Science and Technology)](https://kaist.ac.kr)
-- [CASYS (Computer Architecture and Systems Laboratory)](https://casyslab.kaist.ac.kr)
-- Advisor: [Prof. Jaehyuk Huh](https://jaehyuk-huh.github.io/index.html)
+- Incoming Post-doctoral Researcher [Engineering Science](https://eng.ox.ac.uk)
+- [University of Oxford](https://www.ox.ac.uk/)
+- [OSCAR (Oxford Secure Computer Architecture Research Group)](https://oscar-ox.com)
+- Advisor: [Prof. Amro Awad](https://eng.ox.ac.uk/people/amro-awad)
 
 Contact Info
 ======
 - Email: myshlee417 [at] gmail [dot] com
-- Office: KAIST E3-1 Room #4414
-- Tel: (+82)10-3617-1820
-- Address:  
-&#35;4414, E3-1, School of Computing, KAIST  
-291 Daehak-ro (373-1 Guseong-dong), Yuseong-gu  
-Daejeon 34141, Republic of Korea
+- Office: TBD
+- Tel: TBD
+- Address: TBD
 
 Research Interests
 ======
 - Computer Architecture
-- Machine Learning Accelerators
 - Hardware-based Security
+- High-performance devices
+- Machine Learning Accelerators
 - Parallelism
 
 Education
