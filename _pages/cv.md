@@ -44,7 +44,7 @@ Professional Services
 
 **Artifact Evaluation Committee:** ASPLOS 2026, MICRO 2025, ISCA 2025
 
-**Guest Reviewer:** TDSC (Transactions on Dependable and Secure Computing)
+**Guest Reviewer:** TDSC (Transactions on Dependable and Secure Computing), TACO(Transactions on Architecture and Code Optimization)
 
 **uArch** (in conjunction with **ISCA 2022**), New York City, United States of America, *June 2022*  
 &nbsp;&nbsp;Student Panel  
@@ -80,6 +80,7 @@ Publications
 
 Patents
 ======
+* **[Application: KR 1020250187986]** Jaehyuk Huh, **Sunho Lee**, Jeongwon Choi, and Jinwon Pyo, &quot;Device For Protecting Data and Operation Method Thereof&quot;, *Korean Patent*
 * **[Application: KR 1020250065203]** Jaehyuk Huh, Kwanghoon Choi, Igjae Kim, and **Sunho Lee**, &quot;Efficient Access Obfuscation with CXL Memory&quot;, *Korean Patent*
 * **[Application: KR 1020230055347]** Jaehyuk Huh, Jungwoo Kim, Seonjin Na, Sanghyeon Lee, and **Sunho Lee**, &quot;Improving the Utilization of NPU On-chip Memory with Computation Rearrangement for DNN Training&quot;, *Korean Patent*
 * **[Application: KR 1020230055346]** Jaehyuk Huh, Seonjin Na, Jungwoo Kim, and **Sunho Lee**, &quot;Dynamic One-time Pad Table Management for Secure Multi-GPU Communication&quot;, *Korean Patent*
