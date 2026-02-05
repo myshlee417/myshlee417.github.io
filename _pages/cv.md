@@ -44,7 +44,7 @@ Professional Services
 
 **Artifact Evaluation Committee:** ASPLOS 2026, MICRO 2025, ISCA 2025
 
-**Guest Reviewer:** TDSC (Transactions on Dependable and Secure Computing), TACO(Transactions on Architecture and Code Optimization)
+**Guest Reviewer:** TDSC (Transactions on Dependable and Secure Computing), TACO (Transactions on Architecture and Code Optimization)
 
 **uArch** (in conjunction with **ISCA 2022**), New York City, United States of America, *June 2022*  
 &nbsp;&nbsp;Student Panel  
