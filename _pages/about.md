@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-- Incoming Post-doctoral Researcher
+- Postdoctoral Researcher
 - [University of Oxford](https://www.ox.ac.uk/)
 - [Engineering Science](https://eng.ox.ac.uk)
 - [OSCAR (Oxford Secure Computer Architecture Research Group)](https://oscar-ox.com)

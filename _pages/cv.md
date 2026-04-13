@@ -33,14 +33,16 @@ It is expected to protect users from attackers in a reasonable latency.
 Professional Services
 ======
 **University of Oxford**, Oxford, United Kingdom, *Apr 2026 - present*  
-&nbsp;&nbsp;Post-doctoral Researcher, Engineering Science  
+&nbsp;&nbsp;Postdoctoral Researcher, Engineering Science  
 &nbsp;&nbsp;Advisor: Amro Awad
 
 **KAIST**, Daejeon, Republic of Korea, *Mar 2025 - Mar 2026*  
-&nbsp;&nbsp;Post-doctoral Researcher, School of Computing  
+&nbsp;&nbsp;Postdoctoral Researcher, School of Computing  
 &nbsp;&nbsp;Advisor: Jaehyuk Huh
 
-**Porgram Committee:** MICRO 2026
+**Program Committee:** MICRO 2026, ConfAd 2026 (The First Workshop on Advances in Confidential Computing)
+
+**Session Chair:** ConfAd 2026 (The First Workshop on Advances in Confidential Computing)
 
 **External Review Committee:** MLSys 2026
 
