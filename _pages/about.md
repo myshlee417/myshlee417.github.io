@@ -10,7 +10,8 @@ redirect_from:
 - Postdoctoral Researcher
 - [University of Oxford](https://www.ox.ac.uk/)
 - [Engineering Science](https://eng.ox.ac.uk)
-- [OSCAR (Oxford Secure Computer Architecture Research Group)](https://oscar-ox.com)
+- [Oxford OSCAR (Oxford Secure Computer Architecture Research Group)](https://oscar-ox.com)
+- [Oxford HAIGL (Oxford Hardware AI Governance Lab)](https://aigi.ox.ac.uk/hardware-ai-governance-lab)
 - Advisor: [Prof. Amro Awad](https://eng.ox.ac.uk/people/amro-awad)
 
 Contact Info
@@ -23,6 +24,7 @@ Research Interests
 - Hardware-based Security
 - High-performance devices
 - Machine Learning Accelerators
+- AI Governance
 - Parallelism
 
 Education

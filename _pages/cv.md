@@ -33,10 +33,13 @@ It is expected to protect users from attackers in a reasonable latency.
 Professional Services
 ======
 **University of Oxford**, Oxford, United Kingdom, *Apr 2026 - present*  
+*Oxford OSCAR (Oxford Secure Computer Architecture Research Group) Lab*  
+*Oxford HAIGL (Oxford Hardware AI Governance Lab)*  
 &nbsp;&nbsp;Postdoctoral Researcher, Engineering Science  
 &nbsp;&nbsp;Advisor: Amro Awad
 
 **KAIST**, Daejeon, Republic of Korea, *Mar 2025 - Mar 2026*  
+*KAIST CASYS (KAIST Computer Architecture and SYStem) Lab*  
 &nbsp;&nbsp;Postdoctoral Researcher, School of Computing  
 &nbsp;&nbsp;Advisor: Jaehyuk Huh
 
@@ -95,14 +98,15 @@ Patents
 Research Experiences
 ======
 **University of Oxford**, Oxford, United Kingdom, *Apr 2026 - present*  
-*Ongoing Researches at OSCAR (Oxford Secure Computer Architecture Research Group) Lab*  
+*Ongoing Researches at Oxford OSCAR (Oxford Secure Computer Architecture Research Group) Lab*  
+*Ongoing Researches at Oxford HAIGL (Oxford Hardware AI Governance Lab)*  
 Advisor: Amro Awad  
 &nbsp;&nbsp;**High-performance Device Security**  
 &nbsp;&nbsp;&nbsp;&nbsp;- Confidential computing for chiplet-based processors  
 
 &nbsp;&nbsp;**High-performance Device Security**  
 **KAIST**, Daejeon, Republic of Korea, *Mar 2019 - present*  
-*Researches at CASYS (Computer Architecture and SYStem) Lab*  
+*Researches at KAIST CASYS (KAIST Computer Architecture and SYStem) Lab*  
 Advisor: Jaehyuk Huh  
 &nbsp;&nbsp;**High-performance Device Security**  
 &nbsp;&nbsp;&nbsp;&nbsp;- Memory protection optimization for GPU: Common counters for duplicate counters (Published in **HPCA 2021**)  
