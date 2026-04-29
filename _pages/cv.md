@@ -103,6 +103,7 @@ Research Experiences
 Advisor: Amro Awad  
 &nbsp;&nbsp;**High-performance Device Security**  
 &nbsp;&nbsp;&nbsp;&nbsp;- Confidential computing for chiplet-based processors  
+&nbsp;&nbsp;&nbsp;&nbsp;- AI governance  
 
 &nbsp;&nbsp;**High-performance Device Security**  
 **KAIST**, Daejeon, Republic of Korea, *Mar 2019 - present*  
