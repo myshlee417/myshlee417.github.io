@@ -74,6 +74,7 @@ Education
 
 Publications
 ======
+* **Sunho Lee**, Minwoo Noh, Jeongwon Choi, Kwanghoon Choi, Igjae Kim, Chang Hyun Park, and Jaehyuk Huh, &quot;SecPIMlet: Confidential Computing for Spatio-temporally Shared Processing-in-Memory&quot;, *the 59th International Symposium on Microarchitecture (* ***MICRO*** *)*, October 2026
 * **Sunho Lee**, Seonjin Na, Jeongwon Choi, Jinwon Pyo, and Jaehyuk Huh, &quot;Unified Memory Protection with Multi-granular MAC and Integrity Tree for Heterogeneous Processors&quot;, *the 52nd International Symposium on Computer Architecture (* ***ISCA*** *)*, June 2025
 * Kwanghoon Choi, Igjae Kim, **Sunho Lee**, and Jaehyuk Huh, &quot;ShieldCXL: A Practical Obliviousness Support with Sealed CXL Memory&quot;, *ACM Transactions on Architecture and Code Optimization (* ***TACO*** *)*, March 2025
 * Seonjin Na, Jungwoo Kim, **Sunho Lee**, and Jaehyuk Huh, &quot;Supporting Secure Multi-GPU Computing with Dynamic and Batched Metadata Management&quot;, *the 30th IEEE International Symposium on High-Performance Computer Architecture (* ***HPCA*** *)*, March 2024
@@ -118,7 +119,7 @@ Advisor: Jaehyuk Huh
 &nbsp;&nbsp;&nbsp;&nbsp;- Dynamic secure-granularity management for heterogeneous processors: Multi-granular MAC and multi-granular integrity tree (Published in **ISCA 2025**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Memory protection and obfuscation for CXL: Sealing CXL module, flit encryption, dummy flit, and DRAM cache partitioning (Published in **TACO 2025**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Efficient homomorphic encryption scheme for LLM  
-&nbsp;&nbsp;&nbsp;&nbsp;- Confidential computing and memory virtualization for multi-tenant general-purpose PIM  
+&nbsp;&nbsp;&nbsp;&nbsp;- Confidential computing and memory virtualization for multi-tenant PIM (Published in **MICRO 2026**)
 &nbsp;&nbsp;**High-performance Device Performance**  
 &nbsp;&nbsp;&nbsp;&nbsp;- Multi-tenancy support for a multi-GPU system: Time and spatial sharing (Published in **USENIX ATC 2022**)  
 &nbsp;&nbsp;&nbsp;&nbsp;- Accurate multi-NPU simulation: Multi-NPU simulator attached with DRAMsim3 (Published in **IISWC 2023**)  
