@@ -75,7 +75,6 @@ Education
 Publications
 ======
 * William Taylor, **Sunho Lee**, Henry Wang, Noa Zilberman, and Amro Awad, &quot;VERVE: Verifiable Value Retrieval Leveraging Value Reuse in Accelerator Memory&quot;, *the 44th IEEE International Conference on Computer Design (* ***ICCD*** *)*, November 2026
-**Sunho Lee**, Seonjin Na, Jungwoo Kim, Jongse Park, and Jaehyuk Huh, &quot;Tunable Memory Protection for Secure Neural Processing Units&quot;, *the 40th IEEE International Conference on Computer Design (* ***ICCD*** *)*, October 2022
 * **Sunho Lee**, Minwoo Noh, Jeongwon Choi, Kwanghoon Choi, Igjae Kim, Chang Hyun Park, and Jaehyuk Huh, &quot;SecPIMlet: Confidential Computing for Spatio-temporally Shared Processing-in-Memory&quot;, *the 59th International Symposium on Microarchitecture (* ***MICRO*** *)*, October 2026
 * **Sunho Lee**, Seonjin Na, Jeongwon Choi, Jinwon Pyo, and Jaehyuk Huh, &quot;Unified Memory Protection with Multi-granular MAC and Integrity Tree for Heterogeneous Processors&quot;, *the 52nd International Symposium on Computer Architecture (* ***ISCA*** *)*, June 2025
 * Kwanghoon Choi, Igjae Kim, **Sunho Lee**, and Jaehyuk Huh, &quot;ShieldCXL: A Practical Obliviousness Support with Sealed CXL Memory&quot;, *ACM Transactions on Architecture and Code Optimization (* ***TACO*** *)*, March 2025
