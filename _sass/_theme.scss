@@ -7,11 +7,11 @@
 }
 
 .masthead .greedy-nav {
-  padding-right: 12.5rem;
+  padding-right: 14.5rem;
 }
 
 .masthead .greedy-nav > button {
-  right: 12.5rem;
+  right: 14.5rem;
 }
 
 .theme-toggle {
@@ -52,6 +52,14 @@
 html.theme-light .theme-toggle__icon::before {
   content: "☀";
   color: #c47d0a;
+}
+
+.theme-toggle__state::before {
+  content: "On";
+}
+
+html.theme-light .theme-toggle__state::before {
+  content: "Off";
 }
 
 .theme-toggle__switch {
