@@ -45,7 +45,7 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
-          <p><b><i>{{ post.venue }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</i></b> </p>
+          <p><b><i>{{ post.venue }} {{ post.date | default: "1900-01-01" | date: "%Y" }}</i></b>{% if post.award %} <span style="color: rgb(217, 4, 41);">★ <strong>{{ post.award }}</strong></span>{% endif %}</p>
         {% elsif post.collection == 'patents' %}
 	    {% if post.status == 'Application' and post.ack %}
 	    <p><b><i>Application: {{ post.venue }} (with {{ post.ack }})</i></b></p>
