@@ -54,6 +54,10 @@ html.theme-light .theme-toggle__icon::before {
   color: #c47d0a;
 }
 
+.theme-toggle__state {
+  font-weight: 700;
+}
+
 .theme-toggle__state::before {
   content: "On";
 }
