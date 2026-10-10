@@ -36,10 +36,10 @@
     gap: 0.55rem;
     margin: 0.15em 0 1.35em;
     padding: 0.55em 0.95em 0.55em 0.7em;
-    border: 1px solid rgba($info-color, 0.55);
+    border: 1px solid rgba($info-color, 0.45);
     border-radius: $border-radius;
-    background: rgba($info-color, 0.16);
-    color: #d7eef5;
+    background: rgba($info-color, 0.14);
+    color: #d5e0e6;
     font-family: $sans-serif;
     font-size: 0.95rem;
     font-weight: 700;
@@ -57,7 +57,7 @@
     &:hover {
       background: $info-color;
       border-color: $info-color;
-      color: #fff;
+      color: #f4f6f7;
       text-decoration: none;
 
       img {
@@ -112,6 +112,22 @@
   img {
     width: 100%;
   }
+}
+
+.award-note {
+  display: inline-block;
+  margin-left: 0.35em;
+  padding: 0.08em 0.48em 0.1em;
+  border-radius: 0.2em;
+  background: rgba(243, 184, 188, 0.16);
+  color: #f3c4c8;
+  font-size: 0.82em;
+  font-style: normal;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  line-height: 1.45;
+  vertical-align: 0.06em;
+  white-space: nowrap;
 }
 
 .patent-title {
