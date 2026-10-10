@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sunho's Website"
+title                    : "Sunho Lee"
 title_separator          : "-"
 name                     : &name "Sunho Lee"
 description              : &description "Postdoctoral Researcher at University of Oxford"

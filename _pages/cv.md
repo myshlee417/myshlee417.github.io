@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 {% include base_path %}
-## [![pdf-image](https://myshlee417.github.io/files/pdf_icon.png){: width="25em" height="25em"}Download](http://myshlee417.github.io/files/CV_Sunho_Lee.pdf)
+<a class="cv-download" href="http://myshlee417.github.io/files/CV_Sunho_Lee.pdf"><img src="https://myshlee417.github.io/files/pdf_icon.png" alt="">Download CV</a>
 
 
 Research Interests
