@@ -13,9 +13,14 @@
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  try {
+    if (localStorage.getItem("theme") === "light") {
+      document.documentElement.classList.add("theme-light");
+    }
+  } catch (e) {}
 </script>
 
 <!-- For all browsers -->
-<link rel="stylesheet" href="{{ base_path }}/assets/css/main.css?v=20261010i">
+<link rel="stylesheet" href="{{ base_path }}/assets/css/main.css?v=20261010j">
 
 <meta http-equiv="cleartype" content="on">

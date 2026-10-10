@@ -1,4 +1,16 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
+<script>
+  (function () {
+    var button = document.querySelector(".theme-toggle");
+    if (!button) return;
+    button.addEventListener("click", function () {
+      var light = document.documentElement.classList.toggle("theme-light");
+      try {
+        localStorage.setItem("theme", light ? "light" : "dark");
+      } catch (e) {}
+    });
+  })();
+</script>
 
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}

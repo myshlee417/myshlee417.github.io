@@ -1,0 +1,165 @@
+/* ==========================================================================
+   THEME TOGGLE
+   ========================================================================== */
+
+.theme-toggle {
+  position: fixed;
+  right: 1rem;
+  top: 50%;
+  z-index: 40;
+  transform: translateY(-50%);
+  width: 2.5rem;
+  height: 2.5rem;
+  padding: 0;
+  border: 1px solid $border-color;
+  border-radius: 999px;
+  background: $lighter-gray;
+  color: $text-color;
+  font-size: 1rem;
+  line-height: 1;
+  cursor: pointer;
+  box-shadow: 0 1px 4px rgba(#000, 0.18);
+
+  &:hover {
+    color: $link-color-hover;
+    border-color: $link-color;
+  }
+}
+
+html.theme-light {
+  background-color: #f7f6f3;
+
+  body {
+    color: #2c3136;
+    background-color: #f7f6f3;
+  }
+
+  a {
+    color: #3d6d82;
+  }
+
+  .page__content a,
+  .archive a {
+    color: #3d6d82;
+    text-decoration-color: rgba(61, 109, 130, 0.35);
+
+    &:hover {
+      color: #2a5163;
+      text-decoration-color: currentColor;
+    }
+  }
+
+  .archive a.cv-download {
+    border-color: rgba(61, 109, 130, 0.4);
+    background: rgba(61, 109, 130, 0.08);
+    color: #3d6d82;
+
+    &:hover {
+      background: #3d6d82;
+      border-color: #3d6d82;
+      color: #fff;
+    }
+  }
+
+  .archive__item:hover .archive__item-title a {
+    color: #2a5163;
+  }
+
+  .masthead {
+    border-bottom-color: #e4e1db;
+  }
+
+  .greedy-nav {
+    background: #f7f6f3;
+
+    a {
+      color: #5c656d;
+
+      &:hover {
+        color: #2c3136;
+      }
+    }
+
+    .hidden-links {
+      background: #fff;
+      border-color: #e4e1db;
+
+      a:hover {
+        background: #f3f1ec;
+        color: #2c3136;
+      }
+
+      &:after {
+        border-color: #fff transparent;
+      }
+    }
+  }
+
+  .page__footer {
+    color: #6b7278;
+    background-color: #fff;
+    border-top-color: #e4e1db;
+
+    .fas,
+    .fab,
+    .far,
+    .fal {
+      color: #6b7278;
+    }
+  }
+
+  .page__meta,
+  .archive__subtitle {
+    color: #6b7278;
+  }
+
+  .patent-title {
+    color: #3d6d82;
+  }
+
+  .award-note {
+    background: rgba(157, 59, 69, 0.1);
+    color: #9d3b45;
+  }
+
+  .social-icons .fa {
+    color: #2c3136;
+  }
+
+  .author__urls {
+    background: #fff;
+
+    &:after {
+      border-color: #fff transparent;
+    }
+  }
+
+  .btn--inverse {
+    color: #2c3136 !important;
+    border-color: #e4e1db !important;
+    background-color: #fff;
+
+    &:hover {
+      color: #fff !important;
+      background-color: #2c3136;
+      border-color: #2c3136;
+    }
+  }
+
+  .theme-toggle {
+    background: #fff;
+    color: #2c3136;
+    border-color: #e4e1db;
+    box-shadow: 0 1px 4px rgba(#000, 0.08);
+
+    &:hover {
+      color: #3d6d82;
+      border-color: #3d6d82;
+    }
+  }
+
+  ::selection {
+    color: #fff;
+    background: #3d6d82;
+  }
+}
