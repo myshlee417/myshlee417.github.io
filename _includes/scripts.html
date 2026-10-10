@@ -1,12 +1,24 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 <script>
   (function () {
+    var root = document.documentElement;
+    function applyTheme(theme) {
+      var light = theme === "light";
+      root.classList.toggle("theme-light", light);
+      try { localStorage.setItem("theme", light ? "light" : "dark"); } catch (e) {}
+    }
+    try {
+      applyTheme(localStorage.getItem("theme") === "light" ? "light" : "dark");
+    } catch (e) {}
     var button = document.querySelector(".theme-toggle");
-    if (!button) return;
-    button.addEventListener("click", function () {
-      var light = document.documentElement.classList.toggle("theme-light");
+    if (button) {
+      button.addEventListener("click", function () {
+        applyTheme(root.classList.contains("theme-light") ? "dark" : "light");
+      });
+    }
+    window.addEventListener("pageshow", function () {
       try {
-        localStorage.setItem("theme", light ? "light" : "dark");
+        applyTheme(localStorage.getItem("theme") === "light" ? "light" : "dark");
       } catch (e) {}
     });
   })();

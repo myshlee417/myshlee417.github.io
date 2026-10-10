@@ -2,27 +2,37 @@
    THEME TOGGLE
    ========================================================================== */
 
+.masthead__menu {
+  position: relative;
+}
+
+.masthead .greedy-nav {
+  padding-right: 2.75rem;
+}
+
+.masthead .greedy-nav > button {
+  right: 2.75rem;
+}
+
 .theme-toggle {
-  position: fixed;
-  right: 1rem;
-  top: 50%;
-  z-index: 40;
-  transform: translateY(-50%);
+  position: absolute;
+  top: 0;
+  right: 0;
+  z-index: 30;
   width: 2.5rem;
-  height: 2.5rem;
+  height: 100%;
   padding: 0;
-  border: 1px solid $border-color;
-  border-radius: 999px;
-  background: $lighter-gray;
-  color: $text-color;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: $masthead-link-color;
   font-size: 1rem;
   line-height: 1;
   cursor: pointer;
-  box-shadow: 0 1px 4px rgba(#000, 0.18);
+  box-shadow: none;
 
   &:hover {
-    color: $link-color-hover;
-    border-color: $link-color;
+    color: $masthead-link-color-hover;
   }
 }
 
@@ -127,10 +137,15 @@ html.theme-light {
   }
 
   .author__urls {
-    background: #fff;
+    background: #f7f6f3;
 
     &:after {
-      border-color: #fff transparent;
+      border-color: #f7f6f3 transparent;
+    }
+
+    @include breakpoint($large) {
+      background: transparent;
+      box-shadow: none;
     }
   }
 
@@ -147,14 +162,13 @@ html.theme-light {
   }
 
   .theme-toggle {
-    background: #fff;
-    color: #2c3136;
-    border-color: #e4e1db;
-    box-shadow: 0 1px 4px rgba(#000, 0.08);
+    background: transparent;
+    color: #5c656d;
+    border: 0;
+    box-shadow: none;
 
     &:hover {
-      color: #3d6d82;
-      border-color: #3d6d82;
+      color: #2c3136;
     }
   }
 
