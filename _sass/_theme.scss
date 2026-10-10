@@ -7,37 +7,41 @@
 }
 
 .masthead .greedy-nav {
-  padding-right: 11rem;
+  padding-right: 12.5rem;
 }
 
 .masthead .greedy-nav > button {
-  right: 11rem;
+  right: 12.5rem;
 }
 
 .theme-toggle {
   position: absolute;
-  top: 0;
+  top: 50%;
   right: 0.35rem;
   z-index: 30;
   display: inline-flex;
   align-items: center;
   gap: 0.4rem;
-  height: 100%;
-  padding: 0;
-  border: 0;
-  border-radius: 0;
-  background: transparent;
-  color: $masthead-link-color;
+  height: auto;
+  margin: 0;
+  padding: 0.35em 0.6em;
+  border: 1px solid rgba($link-color, 0.45);
+  border-radius: $border-radius;
+  background: rgba($link-color, 0.12);
+  color: #d7dce0;
   font-family: $sans-serif;
   font-size: 0.95rem;
-  font-weight: 700;
+  font-weight: 400;
   letter-spacing: 0.02em;
   line-height: 1;
   cursor: pointer;
   box-shadow: none;
+  transform: translateY(-50%);
 
   &:hover {
-    color: $masthead-link-color-hover;
+    color: #fff;
+    border-color: rgba($link-color, 0.7);
+    background: rgba($link-color, 0.2);
   }
 }
 
@@ -46,7 +50,8 @@
 }
 
 html.theme-light .theme-toggle__icon::before {
-  content: "☀️";
+  content: "☀";
+  color: #c47d0a;
 }
 
 .theme-toggle__switch {
@@ -224,13 +229,15 @@ html.theme-light {
   }
 
   .theme-toggle {
-    background: transparent;
-    color: #5c656d;
-    border: 0;
+    background: rgba(61, 109, 130, 0.08);
+    color: #3d6d82;
+    border: 1px solid rgba(61, 109, 130, 0.45);
     box-shadow: none;
 
     &:hover {
-      color: #2c3136;
+      color: #2a5163;
+      border-color: #3d6d82;
+      background: rgba(61, 109, 130, 0.14);
     }
   }
 
