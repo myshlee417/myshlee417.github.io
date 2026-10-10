@@ -11,9 +11,14 @@
       applyTheme(localStorage.getItem("theme") === "light" ? "light" : "dark");
     } catch (e) {}
     var button = document.querySelector(".theme-toggle");
+    function syncSwitch() {
+      if (button) button.setAttribute("aria-pressed", root.classList.contains("theme-light") ? "false" : "true");
+    }
+    syncSwitch();
     if (button) {
       button.addEventListener("click", function () {
         applyTheme(root.classList.contains("theme-light") ? "dark" : "light");
+        syncSwitch();
       });
     }
     window.addEventListener("pageshow", function () {

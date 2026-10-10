@@ -7,32 +7,58 @@
 }
 
 .masthead .greedy-nav {
-  padding-right: 2.75rem;
+  padding-right: 8.5rem;
 }
 
 .masthead .greedy-nav > button {
-  right: 2.75rem;
+  right: 8.5rem;
 }
 
 .theme-toggle {
   position: absolute;
   top: 0;
-  right: 0;
+  right: 0.35rem;
   z-index: 30;
-  width: 2.5rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
   height: 100%;
   padding: 0;
   border: 0;
   border-radius: 0;
   background: transparent;
   color: $masthead-link-color;
-  font-size: 1rem;
+  font-family: $sans-serif;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
   line-height: 1;
   cursor: pointer;
   box-shadow: none;
 
   &:hover {
     color: $masthead-link-color-hover;
+  }
+}
+
+.theme-toggle__switch {
+  position: relative;
+  width: 1.9rem;
+  height: 1.05rem;
+  border: 1px solid $border-color;
+  border-radius: 999px;
+  background: rgba(#fff, 0.08);
+
+  &::after {
+    content: "";
+    position: absolute;
+    top: 1px;
+    left: 1px;
+    width: 0.78rem;
+    height: 0.78rem;
+    border-radius: 50%;
+    background: $text-color;
+    transform: translateX(0.72rem);
   }
 }
 
@@ -169,6 +195,16 @@ html.theme-light {
 
     &:hover {
       color: #2c3136;
+    }
+  }
+
+  .theme-toggle__switch {
+    border-color: #d9d4cc;
+    background: #e7e4de;
+
+    &::after {
+      background: #fff;
+      transform: translateX(0);
     }
   }
 
