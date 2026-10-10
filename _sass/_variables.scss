@@ -47,20 +47,20 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$gray                       : #9aa3ab;
+$dark-gray                  : #6d757c;
+$darker-gray                : #4a5158;
+$light-gray                 : #3a4149;
+$lighter-gray               : #22262c;
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$body-color                 : #171a1f;
+$background-color           : #171a1f;
+$code-background-color      : #22262c;
+$code-background-color-dark : #2a3038;
+$text-color                 : #e4e7eb;
+$border-color               : #323840;
 
-$primary-color              : #7a8288;
+$primary-color              : #8b949e;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
@@ -90,11 +90,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : #3d7c98;
-$link-color-hover           : #2a6278;
+$link-color                 : #8ec4d6;
+$link-color-hover           : #c5e4ef;
 $link-color-visited         : $link-color;
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$masthead-link-color        : #c5ccd3;
+$masthead-link-color-hover  : #fff;
 
 
 /*
