@@ -30,18 +30,6 @@
     }
   }
 
-  .archive__item-title a {
-    color: $text-color;
-    text-decoration: none;
-
-    &:hover {
-      color: $link-color;
-      text-decoration-line: underline;
-      text-decoration-color: rgba($link-color, 0.55);
-      text-underline-offset: 0.12em;
-    }
-  }
-
   a.cv-download {
     display: inline-flex;
     align-items: center;
@@ -124,6 +112,13 @@
   img {
     width: 100%;
   }
+}
+
+.patent-title {
+  margin-bottom: 0.25em;
+  color: $link-color;
+  font-family: $sans-serif-narrow;
+  cursor: default;
 }
 
 .archive__item:hover {
