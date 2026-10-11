@@ -186,8 +186,20 @@ html.theme-light {
     .fas,
     .fab,
     .far,
-    .fal {
+    .fal,
+    .fa-linkedin,
+    .fa-linkedin-square {
       color: #6b7278;
+    }
+
+    .social-icons a {
+      color: #6b7278;
+
+      .fab,
+      .fa-linkedin,
+      .fa-linkedin-square {
+        color: #6b7278;
+      }
     }
   }
 
