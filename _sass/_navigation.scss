@@ -208,12 +208,8 @@
       display: table-cell;
       vertical-align: middle;
 
-      &:first-child {
-        font-weight: bold;
-
-        a {
-          margin-left: 0;
-        }
+      &:first-child a {
+        margin-left: 0;
       }
 
       &:last-child {

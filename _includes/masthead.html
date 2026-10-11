@@ -3,10 +3,10 @@
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
+      <a class="masthead__brand" href="{{ base_path }}/">{{ site.title }}</a>
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ base_path }}/">{{ site.title }}</a></li>
           {% for link in site.data.navigation.main %}
             {% if link.url contains 'http' %}
               {% assign domain = '' %}
@@ -20,7 +20,7 @@
       </nav>
       <button type="button" class="theme-toggle" aria-pressed="true" aria-label="Dark Mode">
         <span class="theme-toggle__icon" aria-hidden="true"></span>
-        <span class="theme-toggle__label">Dark Mode</span>
+        <span class="theme-toggle__label">Dark<span class="theme-toggle__mode"> Mode</span></span>
         <span class="theme-toggle__state" aria-hidden="true"></span>
         <span class="theme-toggle__switch" aria-hidden="true"></span>
       </button>

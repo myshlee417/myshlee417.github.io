@@ -4,9 +4,26 @@
 
 .masthead__menu {
   position: relative;
+  display: flex;
+  align-items: center;
+}
+
+.masthead__brand {
+  flex: 0 0 auto;
+  margin-right: 1.25rem;
+  color: $masthead-link-color;
+  font-weight: 700;
+  white-space: nowrap;
+  text-decoration: none;
+
+  &:hover {
+    color: $masthead-link-color-hover;
+  }
 }
 
 .masthead .greedy-nav {
+  flex: 1 1 auto;
+  min-width: 0;
   padding-right: 14.5rem;
 }
 
@@ -47,19 +64,37 @@
 
 @include breakpoint(max-width $large) {
   .masthead__menu {
-    display: flex;
-    align-items: center;
-    gap: 0.4rem;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+    align-items: stretch;
+    gap: 0.35rem;
+  }
+
+  .masthead__brand {
+    align-self: center;
+    justify-self: start;
+    margin-right: 0;
+  }
+
+  .theme-toggle {
+    position: static;
+    align-self: center;
+    justify-self: center;
+    grid-column: 2;
+    transform: none;
+  }
+
+  .theme-toggle__mode {
+    display: none;
   }
 
   .masthead .greedy-nav {
-    flex: 1 1 auto;
+    grid-column: 3;
+    justify-self: end;
+    align-self: stretch;
+    width: 2.75rem;
     min-width: 0;
-    padding-right: 2.75rem;
-  }
-
-  .masthead .greedy-nav .visible-links {
-    overflow: hidden;
+    padding-right: 0;
   }
 
   .masthead .greedy-nav > button {
@@ -67,10 +102,8 @@
     z-index: 2;
   }
 
-  .theme-toggle {
-    position: static;
-    flex: 0 0 auto;
-    transform: none;
+  .masthead .greedy-nav .visible-links {
+    display: none;
   }
 
   .greedy-nav .hidden-links {
@@ -195,6 +228,14 @@ html.theme-light {
   .masthead {
     background-color: #e6e9ec;
     border-bottom-color: #d5dbdf;
+  }
+
+  .masthead__brand {
+    color: #5c656d;
+
+    &:hover {
+      color: #2c3136;
+    }
   }
 
   .greedy-nav {
