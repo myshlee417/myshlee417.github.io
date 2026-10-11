@@ -108,6 +108,18 @@ html:not(.theme-light) .author__urls a:hover .fab {
   color: $link-color-hover;
 }
 
+html:not(.theme-light) .page__footer .social-icons a[href*="linkedin"],
+html:not(.theme-light) .page__footer .social-icons a[href*="linkedin"] .fab,
+html:not(.theme-light) .page__footer .social-icons a[href*="linkedin"] .fa-linkedin {
+  color: $link-color;
+}
+
+html:not(.theme-light) .page__footer .social-icons a[href*="linkedin"]:hover,
+html:not(.theme-light) .page__footer .social-icons a[href*="linkedin"]:hover .fab,
+html:not(.theme-light) .page__footer .social-icons a[href*="linkedin"]:hover .fa-linkedin {
+  color: $link-color-hover;
+}
+
 html.theme-light {
   background-color: #f2f4f6;
 
@@ -186,19 +198,24 @@ html.theme-light {
     .fas,
     .fab,
     .far,
-    .fal,
-    .fa-linkedin,
-    .fa-linkedin-square {
+    .fal {
       color: #6b7278;
     }
 
-    .social-icons a {
-      color: #6b7278;
+    .social-icons a[href*="linkedin"] {
+      color: #3d6d82;
 
       .fab,
       .fa-linkedin,
       .fa-linkedin-square {
-        color: #6b7278;
+        color: #3d6d82;
+      }
+
+      &:hover,
+      &:hover .fab,
+      &:hover .fa-linkedin,
+      &:hover .fa-linkedin-square {
+        color: #2a5163;
       }
     }
   }
