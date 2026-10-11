@@ -22,7 +22,7 @@ Research Interests
 ======
 - Computer Architecture
 - Hardware-based Security
-- High-performance devices
+- High-performance Devices
 - Machine Learning Accelerators
 - AI Governance
 - Parallelism
