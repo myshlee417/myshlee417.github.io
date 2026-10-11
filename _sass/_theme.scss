@@ -109,11 +109,11 @@ html:not(.theme-light) .author__urls a:hover .fab {
 }
 
 html.theme-light {
-  background-color: #f7f6f3;
+  background-color: #f2f4f6;
 
   body {
     color: #2c3136;
-    background-color: #f7f6f3;
+    background-color: #f2f4f6;
   }
 
   a {
@@ -224,10 +224,10 @@ html.theme-light {
   }
 
   .author__urls {
-    background: #f7f6f3;
+    background: #f2f4f6;
 
     &:after {
-      border-color: #f7f6f3 transparent;
+      border-color: #f2f4f6 transparent;
     }
 
     @include breakpoint($large) {
