@@ -1,16 +1,16 @@
 ---
 title: "SecPIMlet: Confidential Computing for Spatio-temporally Shared Processing-in-Memory"
 collection: publications
-permalink: /publication/2026-10-31-secpimlet
-date: 2026-10-31
+permalink: /publication/2026-11-02-secpimlet
+date: 2026-11-02
 venue: 'MICRO'
 award: 'Best Paper Nominee'
 excerpt_separator: "<!--more-->"
 paperurl: 'http://myshlee417.github.io/files/secpimlet_micro_2026.pdf'
 slideurl: 'http://myshlee417.github.io/files/secpimlet_slide_micro_2026.pdf'
-citation: 'Sunho Lee, Minwoo Noh, Jeongwon Choi, Kwanghoon Choi, Igjae Kim, Chang Hyun Park, and Jaehyuk Huh, &quot;SecPIMlet: Confidential Computing for Spatio-temporally Shared Processing-in-Memory&quot;, the 59th International Symposium on Microarchitecture (MICRO), October 2026'
+citation: 'Sunho Lee, Minwoo Noh, Jeongwon Choi, Kwanghoon Choi, Igjae Kim, Chang Hyun Park, and Jaehyuk Huh, &quot;SecPIMlet: Confidential Computing for Spatio-temporally Shared Processing-in-Memory&quot;, the 59th International Symposium on Microarchitecture (MICRO), November 2026'
 ---
-**Sunho Lee**, Minwoo Noh, Jeongwon Choi, Kwanghoon Choi, Igjae Kim, Chang Hyun Park, and Jaehyuk Huh, &quot;SecPIMlet: Confidential Computing for Spatio-temporally Shared Processing-in-Memory&quot;, *the 59th International Symposium on Microarchitecture (* ***MICRO*** *)*, October 2026 <!--more--> <span class="award-note">★ Best Paper Nominee</span>
+**Sunho Lee**, Minwoo Noh, Jeongwon Choi, Kwanghoon Choi, Igjae Kim, Chang Hyun Park, and Jaehyuk Huh, &quot;SecPIMlet: Confidential Computing for Spatio-temporally Shared Processing-in-Memory&quot;, *the 59th International Symposium on Microarchitecture (* ***MICRO*** *)*, November 2026 <!--more--> <span class="award-note">★ Best Paper Nominee</span>
 
 [Paper](http://myshlee417.github.io/files/secpimlet_micro_2026.pdf)
 [Slide](http://myshlee417.github.io/files/secpimlet_slide_micro_2026.pdf)
